@@ -1,0 +1,240 @@
+,CID,Phrase,Category,lower_Phrase,all_categories
+0,C0055856,CLARITHROMYCIN,"Antibiotic,Organic Chemical",clarithromycin,"[Antibiotic,Organic Chemical]"
+1,C0003240,Macrolides,"Antibiotic,Organic Chemical",macrolides,"[Antibiotic,Organic Chemical], [Organic Chemical,Pharmacologic Substance]"
+2,C0282563,Macrolides,"Organic Chemical,Pharmacologic Substance",macrolides,"[Antibiotic,Organic Chemical], [Organic Chemical,Pharmacologic Substance]"
+3,C0003204,Anti-Infectives,Pharmacologic Substance,anti-infectives,[Pharmacologic Substance]
+4,C0003232,Antibiotic,Antibiotic,antibiotic,[Antibiotic]
+5,C0041260,TO,"Amino Acid, Peptide, or Protein,Enzyme",to,"[Amino Acid, Peptide, or Protein,Enzyme], [Qualitative Concept], [Intellectual Product]"
+6,C1883351,To,Qualitative Concept,to,"[Amino Acid, Peptide, or Protein,Enzyme], [Qualitative Concept], [Intellectual Product]"
+7,C5202850,TO,Intellectual Product,to,"[Amino Acid, Peptide, or Protein,Enzyme], [Qualitative Concept], [Intellectual Product]"
+8,C0087111,TREAT,Therapeutic or Preventive Procedure,treat,"[Therapeutic or Preventive Procedure], [Functional Concept], [Functional Concept]"
+9,C1292734,treat,Functional Concept,treat,"[Therapeutic or Preventive Procedure], [Functional Concept], [Functional Concept]"
+10,C1522326,Treat,Functional Concept,treat,"[Therapeutic or Preventive Procedure], [Functional Concept], [Functional Concept]"
+11,C0013443,EAR,"Body Part, Organ, or Organ Component",ear,"[Body Part, Organ, or Organ Component]"
+12,C0521421,"Ear, NOS","Body Part, Organ, or Organ Component","ear, nos","[Body Part, Organ, or Organ Component]"
+13,C0028429,NOSE,"Body Part, Organ, or Organ Component",nose,"[Body Part, Organ, or Organ Component]"
+14,C0031354,Throat,"Body Part, Organ, or Organ Component",throat,"[Body Part, Organ, or Organ Component], [Body Location or Region], [Body Part, Organ, or Organ Component]"
+15,C0230069,Throat,Body Location or Region,throat,"[Body Part, Organ, or Organ Component], [Body Location or Region], [Body Part, Organ, or Organ Component]"
+16,C3665375,THROAT,"Body Part, Organ, or Organ Component",throat,"[Body Part, Organ, or Organ Component], [Body Location or Region], [Body Part, Organ, or Organ Component]"
+17,C0024109,LUNGS,"Body Part, Organ, or Organ Component",lungs,"[Body Part, Organ, or Organ Component]"
+18,C0444099,Skin,Body Substance,skin,"[Body Substance], [Body System], [Body System]"
+19,C1123023,SKIN,Body System,skin,"[Body Substance], [Body System], [Body System]"
+20,C4520765,SKIN,Body System,skin,"[Body Substance], [Body System], [Body System]"
+21,C3538559,MAC,Cell Component,mac,"[Cell Component], [Gene or Genome]"
+22,C4049728,MAC,Gene or Genome,mac,"[Cell Component], [Gene or Genome]"
+23,C0026914,MYCOBACTERIUM AVIUM COMPLEX,Bacterium,mycobacterium avium complex,[Bacterium]
+24,C0450446,Stops,Manufactured Object,stops,[Manufactured Object]
+25,C1947925,Stop,Activity,stop,"[Activity], [Temporal Concept]"
+26,C2746065,Stop,Temporal Concept,stop,"[Activity], [Temporal Concept]"
+27,C1269765,Help,Qualitative Concept,help,"[Qualitative Concept], [Intellectual Product]"
+28,C1552861,help,Intellectual Product,help,"[Qualitative Concept], [Intellectual Product]"
+29,C2699488,Resolve,Conceptual Entity,resolve,[Conceptual Entity]
+30,C0683368,symptoms,Functional Concept,symptoms,"[Functional Concept], [Sign or Symptom]"
+31,C1457887,SYMPTOMS,Sign or Symptom,symptoms,"[Functional Concept], [Sign or Symptom]"
+32,C1880198,Cure,Conceptual Entity,cure,[Conceptual Entity]
+33,C0009450,"Infection, NOS",Disease or Syndrome,"infection, nos",[Disease or Syndrome]
+34,C3714514,INFECTION,Pathologic Function,infection,[Pathologic Function]
+35,C0013227,Medicine,Pharmacologic Substance,medicine,"[Pharmacologic Substance], [Biomedical Occupation or Discipline]"
+36,C0025118,Medicine,Biomedical Occupation or Discipline,medicine,"[Pharmacologic Substance], [Biomedical Occupation or Discipline]"
+37,C1883727,Taken,Conceptual Entity,taken,[Conceptual Entity]
+38,C0442027,Orally,Spatial Concept,orally,[Spatial Concept]
+39,C0003138,ANTACIDS,Pharmacologic Substance,antacids,[Pharmacologic Substance]
+40,C1273517,used,Finding,used,[Finding]
+41,C1518422,Not,Functional Concept,not,[Functional Concept]
+42,C4284728,SKIP,Gene or Genome,skip,[Gene or Genome]
+43,C0178602,Doses,Quantitative Concept,doses,[Quantitative Concept]
+44,C1706059,Finish,Functional Concept,finish,[Functional Concept]
+45,C0332272,Better,Qualitative Concept,better,[Qualitative Concept]
+46,C0723457,stopping,"Inorganic Chemical,Pharmacologic Substance",stopping,"[Inorganic Chemical,Pharmacologic Substance]"
+47,C1279919,Early,Temporal Concept,early,[Temporal Concept]
+48,C0332271,Worsening,Qualitative Concept,worsening,"[Qualitative Concept], [Finding], [Idea or Concept]"
+49,C1457868,Worsening,Finding,worsening,"[Qualitative Concept], [Finding], [Idea or Concept]"
+50,C1546960,Worsening,Idea or Concept,worsening,"[Qualitative Concept], [Finding], [Idea or Concept]"
+51,C0332257,include,Functional Concept,include,"[Functional Concept], [Idea or Concept], [Activity]"
+52,C1552866,include,Idea or Concept,include,"[Functional Concept], [Idea or Concept], [Activity]"
+53,C2700399,Include,Activity,include,"[Functional Concept], [Idea or Concept], [Activity]"
+54,C0011991,DIARRHOEA,Sign or Symptom,diarrhoea,[Sign or Symptom]
+55,C1963091,Diarrhea,Finding,diarrhea,"[Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+56,C3641756,Diarrhea,Intellectual Product,diarrhea,"[Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+57,C4084784,Diarrhea,Intellectual Product,diarrhea,"[Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+58,C4084802,Diarrhea,Intellectual Product,diarrhea,"[Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+59,C4085317,Diarrhea,Intellectual Product,diarrhea,"[Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+60,C0027497,NAUSEA,Sign or Symptom,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+61,C1963179,Nausea,Finding,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+62,C2984057,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+63,C3829611,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+64,C4084796,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+65,C4085222,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+66,C4085661,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+67,C4085862,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+68,C4255480,Nausea,Clinical Attribute,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+69,C4552888,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+70,C4552889,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+71,C4553767,Nausea,Finding,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+72,C4761315,Nausea,Intellectual Product,nausea,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Clinical Attribute], [Intellectual Product], [Intellectual Product], [Finding], [Intellectual Product]"
+73,C0849799,abnormal taste,Sign or Symptom,abnormal taste,[Sign or Symptom]
+74,C0013395,INDIGESTION,Sign or Symptom,indigestion,[Sign or Symptom]
+75,C0000737,ABDOMINAL PAIN,Sign or Symptom,abdominal pain,"[Sign or Symptom], [Finding]"
+76,C4554323,Abdominal pain,Finding,abdominal pain,"[Sign or Symptom], [Finding]"
+77,C0018681,HEADACHE,Sign or Symptom,headache,"[Sign or Symptom], [Finding]"
+78,C4553197,Headache,Finding,headache,"[Sign or Symptom], [Finding]"
+79,C0042963,VOMITING,Sign or Symptom,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+80,C1963281,Vomiting,Finding,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+81,C3898969,Vomiting,Intellectual Product,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+82,C4084766,Vomiting,Intellectual Product,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+83,C4084767,Vomiting,Intellectual Product,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+84,C4084768,Vomiting,Intellectual Product,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+85,C4084769,Vomiting,Intellectual Product,vomiting,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+86,C0015230,RASH,Sign or Symptom,rash,"[Sign or Symptom], [Pathologic Function]"
+87,C0302295,Rash,Pathologic Function,rash,"[Sign or Symptom], [Pathologic Function]"
+88,C0009818,Consult,Health Care Activity,consult,[Health Care Activity]
+89,C0031831,Doctor,Professional or Occupational Group,doctor,"[Professional or Occupational Group], [Intellectual Product]"
+90,C2348314,Doctor,Intellectual Product,doctor,"[Professional or Occupational Group], [Intellectual Product]"
+91,C0243095,Find,Finding,find,[Finding]
+92,C0001688,side effects,Functional Concept,side effects,"[Functional Concept], [Pathologic Function], [Pathologic Function]"
+93,C0877248,side effects,Pathologic Function,side effects,"[Functional Concept], [Pathologic Function], [Pathologic Function]"
+94,C0879626,Side effects,Pathologic Function,side effects,"[Functional Concept], [Pathologic Function], [Pathologic Function]"
+95,C0700287,inform,Health Care Activity,inform,"[Health Care Activity], [Occupational Activity]"
+96,C1552002,inform,Occupational Activity,inform,"[Health Care Activity], [Occupational Activity]"
+97,C0549206,PREGNANT,Finding,pregnant,"[Finding], [Finding]"
+98,C0600457,PREGNANT,Finding,pregnant,"[Finding], [Finding]"
+99,C1524063,Using,Functional Concept,using,[Functional Concept]
+100,C0210380,LEVOSULPIRIDE,"Organic Chemical,Pharmacologic Substance",levosulpiride,"[Organic Chemical,Pharmacologic Substance]"
+101,C0081876,PANTOPRAZOLE,"Organic Chemical,Pharmacologic Substance",pantoprazole,"[Organic Chemical,Pharmacologic Substance]"
+102,C0521362,Gastrointestinal,Spatial Concept,gastrointestinal,[Spatial Concept]
+103,C0017168,Gastrooesophageal reflux disease,Disease or Syndrome,gastrooesophageal reflux disease,[Disease or Syndrome]
+104,C4553201,Gastroesophageal reflux disease,Finding,gastroesophageal reflux disease,[Finding]
+105,C0017168,Acid Reflux,Disease or Syndrome,acid reflux,"[Disease or Syndrome], [Sign or Symptom], [Finding]"
+106,C0018834,Acid reflux,Sign or Symptom,acid reflux,"[Disease or Syndrome], [Sign or Symptom], [Finding]"
+107,C4317146,Acid Reflux,Finding,acid reflux,"[Disease or Syndrome], [Sign or Symptom], [Finding]"
+108,C0332303,relieving,Functional Concept,relieving,"[Functional Concept], [Functional Concept], [Qualitative Concept]"
+109,C1301676,Relieving,Functional Concept,relieving,"[Functional Concept], [Functional Concept], [Qualitative Concept]"
+110,C1301771,relieving,Qualitative Concept,relieving,"[Functional Concept], [Functional Concept], [Qualitative Concept]"
+111,C0018834,HEARTBURN,Sign or Symptom,heartburn,[Sign or Symptom]
+112,C0000737,Stomach pain,Sign or Symptom,stomach pain,"[Sign or Symptom], [Sign or Symptom], [Finding], [Finding]"
+113,C0221512,STOMACH PAIN,Sign or Symptom,stomach pain,"[Sign or Symptom], [Sign or Symptom], [Finding], [Finding]"
+114,C1963242,Stomach pain,Finding,stomach pain,"[Sign or Symptom], [Sign or Symptom], [Finding], [Finding]"
+115,C4554097,Stomach pain,Finding,stomach pain,"[Sign or Symptom], [Sign or Symptom], [Finding], [Finding]"
+116,C0441723,Irritation,Phenomenon or Process,irritation,"[Phenomenon or Process], [Finding], [Mental Process]"
+117,C1706307,Irritation,Finding,irritation,"[Phenomenon or Process], [Finding], [Mental Process]"
+118,C2700617,Irritation,Mental Process,irritation,"[Phenomenon or Process], [Finding], [Mental Process]"
+119,C0001128,Acid,Chemical,acid,"[Chemical], [Laboratory Procedure]"
+120,C0202406,Acid,Laboratory Procedure,acid,"[Chemical], [Laboratory Procedure]"
+121,C0033414,Promote,Activity,promote,[Activity]
+122,C0235309,Stomach discomfort,Sign or Symptom,stomach discomfort,[Sign or Symptom]
+123,C0178602,DOSE,Quantitative Concept,dose,"[Quantitative Concept], [Quantitative Concept], [Clinical Attribute]"
+124,C0869039,Dose,Quantitative Concept,dose,"[Quantitative Concept], [Quantitative Concept], [Clinical Attribute]"
+125,C1114758,Dose,Clinical Attribute,dose,"[Quantitative Concept], [Quantitative Concept], [Clinical Attribute]"
+126,C0449238,Duration,Temporal Concept,duration,"[Temporal Concept], [Organic Chemical,Pharmacologic Substance]"
+127,C2926735,Duration,"Organic Chemical,Pharmacologic Substance",duration,"[Temporal Concept], [Organic Chemical,Pharmacologic Substance]"
+128,C1442162,GIVEN,Functional Concept,given,"[Functional Concept], [Idea or Concept], [Functional Concept], [Intellectual Product]"
+129,C1550718,given,Idea or Concept,given,"[Functional Concept], [Idea or Concept], [Functional Concept], [Intellectual Product]"
+130,C1947971,Given,Functional Concept,given,"[Functional Concept], [Idea or Concept], [Functional Concept], [Intellectual Product]"
+131,C3244317,given,Intellectual Product,given,"[Functional Concept], [Idea or Concept], [Functional Concept], [Intellectual Product]"
+132,C0333118,Keep,Functional Concept,keep,[Functional Concept]
+133,C0034866,recommends,Idea or Concept,recommends,[Idea or Concept]
+134,C0012634,condition,Disease or Syndrome,condition,"[Disease or Syndrome], [Qualitative Concept], [Conceptual Entity], [Clinical Attribute], [Intellectual Product]"
+135,C0348080,Condition,Qualitative Concept,condition,"[Disease or Syndrome], [Qualitative Concept], [Conceptual Entity], [Clinical Attribute], [Intellectual Product]"
+136,C1705253,Condition,Conceptual Entity,condition,"[Disease or Syndrome], [Qualitative Concept], [Conceptual Entity], [Clinical Attribute], [Intellectual Product]"
+137,C3864998,Condition,Clinical Attribute,condition,"[Disease or Syndrome], [Qualitative Concept], [Conceptual Entity], [Clinical Attribute], [Intellectual Product]"
+138,C4722256,CONDITION,Intellectual Product,condition,"[Disease or Syndrome], [Qualitative Concept], [Conceptual Entity], [Clinical Attribute], [Intellectual Product]"
+139,C0332271,worsen,Qualitative Concept,worsen,"[Qualitative Concept], [Finding]"
+140,C1457868,worsen,Finding,worsen,"[Qualitative Concept], [Finding]"
+141,C0406636,LET,Disease or Syndrome,let,[Disease or Syndrome]
+142,C0086390,"Team, Healthcare",Health Care Activity,"team, healthcare",[Health Care Activity]
+143,C0013227,Medications,Pharmacologic Substance,medications,"[Pharmacologic Substance], [Clinical Attribute], [Clinical Attribute], [Intellectual Product]"
+144,C0802604,Medications,Clinical Attribute,medications,"[Pharmacologic Substance], [Clinical Attribute], [Clinical Attribute], [Intellectual Product]"
+145,C2598133,Medications,Clinical Attribute,medications,"[Pharmacologic Substance], [Clinical Attribute], [Clinical Attribute], [Intellectual Product]"
+146,C4284232,Medications,Intellectual Product,medications,"[Pharmacologic Substance], [Clinical Attribute], [Clinical Attribute], [Intellectual Product]"
+147,C0001721,Affect,Mental Process,affect,[Mental Process]
+148,C0015967,FEVER,Sign or Symptom,fever,"[Sign or Symptom], [Finding], [Finding]"
+149,C0424755,Fever,Finding,fever,"[Sign or Symptom], [Finding], [Finding]"
+150,C4552740,Fever,Finding,fever,"[Sign or Symptom], [Finding], [Finding]"
+151,C0016204,FLATULENCE,Sign or Symptom,flatulence,"[Sign or Symptom], [Finding]"
+152,C1962956,Flatulence,Finding,flatulence,"[Sign or Symptom], [Finding]"
+153,C0205374,Temporary,Temporal Concept,temporary,"[Temporal Concept], [Idea or Concept], [Intellectual Product]"
+154,C1548539,Temporary,Idea or Concept,temporary,"[Temporal Concept], [Idea or Concept], [Intellectual Product]"
+155,C3245481,temporary,Intellectual Product,temporary,"[Temporal Concept], [Idea or Concept], [Intellectual Product]"
+156,C3538928,Usually,Qualitative Concept,usually,"[Qualitative Concept], [Finding]"
+157,C3888388,Usually,Finding,usually,"[Qualitative Concept], [Finding]"
+158,C0332158,contact,Functional Concept,contact,"[Functional Concept], [Population Group], [Idea or Concept], [Activity]"
+159,C0337611,Contact,Population Group,contact,"[Functional Concept], [Population Group], [Idea or Concept], [Activity]"
+160,C1705415,Contact,Idea or Concept,contact,"[Functional Concept], [Population Group], [Idea or Concept], [Activity]"
+161,C3812666,Contact,Activity,contact,"[Functional Concept], [Population Group], [Idea or Concept], [Activity]"
+162,C0015127,cause,Functional Concept,cause,"[Functional Concept], [Conceptual Entity]"
+163,C1524003,Cause,Conceptual Entity,cause,"[Functional Concept], [Conceptual Entity]"
+164,C0012833,Dizzyness,Sign or Symptom,dizzyness,[Sign or Symptom]
+165,C0042571,dizziness,Sign or Symptom,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+166,C1963093,Dizziness,Finding,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+167,C4084788,Dizziness,Intellectual Product,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+168,C4085547,Dizziness,Intellectual Product,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+169,C4085548,Dizziness,Intellectual Product,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+170,C4085549,Dizziness,Intellectual Product,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+171,C4553830,Dizziness,Finding,dizziness,"[Sign or Symptom], [Finding], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Finding]"
+172,C0001948,drinking alcohol,Individual Behavior,drinking alcohol,"[Individual Behavior], [Organic Chemical,Pharmacologic Substance], [Organic Chemical]"
+173,C0001962,Drinking alcohol,"Organic Chemical,Pharmacologic Substance",drinking alcohol,"[Individual Behavior], [Organic Chemical,Pharmacologic Substance], [Organic Chemical]"
+174,C0589068,Drinking alcohol,Organic Chemical,drinking alcohol,"[Individual Behavior], [Organic Chemical,Pharmacologic Substance], [Organic Chemical]"
+175,C0009237,Coffee,Food,coffee,"[Food], [Food]"
+176,C1365948,COFFEE,Food,coffee,"[Food], [Food]"
+177,C0453864,Spicy food,Food,spicy food,[Food]
+178,C0006622,chocolate,Plant,chocolate,"[Plant], [Food], [Pharmacologic Substance], [Food]"
+179,C0008299,Chocolate,Food,chocolate,"[Plant], [Food], [Pharmacologic Substance], [Food]"
+180,C0939909,chocolate,Pharmacologic Substance,chocolate,"[Plant], [Food], [Pharmacologic Substance], [Food]"
+181,C1337204,CHOCOLATE,Food,chocolate,"[Plant], [Food], [Pharmacologic Substance], [Food]"
+182,C0439659,Start,Temporal Concept,start,[Temporal Concept]
+183,C0032074,Planning,Mental Process,planning,"[Mental Process], [Functional Concept]"
+184,C1301732,Planning,Functional Concept,planning,"[Mental Process], [Functional Concept]"
+185,C0032961,PREGNANCY,Organism Function,pregnancy,[Organism Function]
+186,C0006147,BREASTFEEDING,Organism Function,breastfeeding,[Organism Function]
+187,C0000970,Paracetamol,"Organic Chemical,Pharmacologic Substance",paracetamol,"[Organic Chemical,Pharmacologic Substance]"
+188,C0074389,SERRATIOPEPTIDASE,"Amino Acid, Peptide, or Protein,Enzyme,Pharmacologic Substance",serratiopeptidase,"[Amino Acid, Peptide, or Protein,Enzyme,Pharmacologic Substance]"
+189,C0518090,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+190,C2984058,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+191,C4085210,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+192,C4085211,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+193,C4085212,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+194,C4554132,Pain,Intellectual Product,pain,"[Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product], [Intellectual Product]"
+195,C0231528,MUSCLE ACHE,Sign or Symptom,muscle ache,[Sign or Symptom]
+196,C0004604,BACKPAIN,Sign or Symptom,backpain,[Sign or Symptom]
+197,C1963071,Back pain,Finding,back pain,"[Finding], [Finding]"
+198,C4553945,Back pain,Finding,back pain,"[Finding], [Finding]"
+199,C0003862,JOINT PAIN,Sign or Symptom,joint pain,"[Sign or Symptom], [Finding], [Intellectual Product]"
+200,C1963066,Joint pain,Finding,joint pain,"[Sign or Symptom], [Finding], [Intellectual Product]"
+201,C4085641,Joint Pain,Intellectual Product,joint pain,"[Sign or Symptom], [Finding], [Intellectual Product]"
+202,C0013390,Menstrual cramps,Disease or Syndrome,menstrual cramps,[Disease or Syndrome]
+203,C0309872,PREVENT,Pharmacologic Substance,prevent,[Pharmacologic Substance]
+204,C0235309,Upset Stomach,Sign or Symptom,upset stomach,[Sign or Symptom]
+205,C1527305,feel,Mental Process,feel,[Mental Process]
+206,C0237607,experience,Mental Process,experience,"[Mental Process], [Mental Process]"
+207,C0596545,Experience,Mental Process,experience,"[Mental Process], [Mental Process]"
+208,C1822658,GO,Gene or Genome,go,[Gene or Genome]
+209,C0332271,worse,Qualitative Concept,worse,[Qualitative Concept]
+210,C0085732,Able,Organism Attribute,able,"[Organism Attribute], [Finding]"
+211,C1299581,Able,Finding,able,"[Organism Attribute], [Finding]"
+212,C1705535,Suggest,Idea or Concept,suggest,[Idea or Concept]
+213,C0392756,Reducing,Qualitative Concept,reducing,[Qualitative Concept]
+214,C0205246,General,Spatial Concept,general,"[Spatial Concept], [Health Care Activity], [Intellectual Product], [Classification]"
+215,C3812897,General,Health Care Activity,general,"[Spatial Concept], [Health Care Activity], [Intellectual Product], [Classification]"
+216,C3891294,General,Intellectual Product,general,"[Spatial Concept], [Health Care Activity], [Intellectual Product], [Classification]"
+217,C4521767,General,Classification,general,"[Spatial Concept], [Health Care Activity], [Intellectual Product], [Classification]"
+218,C0042153,use,Functional Concept,use,"[Functional Concept], [Functional Concept], [Intellectual Product]"
+219,C0457083,Use,Functional Concept,use,"[Functional Concept], [Functional Concept], [Intellectual Product]"
+220,C1947944,Use,Intellectual Product,use,"[Functional Concept], [Functional Concept], [Intellectual Product]"
+221,C2700395,Smallest,Quantitative Concept,smallest,[Quantitative Concept]
+222,C1265611,Amount,Quantitative Concept,amount,[Quantitative Concept]
+223,C0243148,control,Qualitative Concept,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+224,C1550141,Control,Substance,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+225,C1882979,Control,Conceptual Entity,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+226,C2587213,Control,Functional Concept,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+227,C3274648,Control,Qualitative Concept,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+228,C4553389,control,Conceptual Entity,control,"[Qualitative Concept], [Substance], [Conceptual Entity], [Functional Concept], [Qualitative Concept], [Conceptual Entity]"
+229,C0332152,BEFORE,Temporal Concept,before,"[Temporal Concept], [Intellectual Product]"
+230,C1705850,Before,Intellectual Product,before,"[Temporal Concept], [Intellectual Product]"
+231,C0012634,Disorders,Disease or Syndrome,disorders,[Disease or Syndrome]
+232,C0013227,Medicines,Pharmacologic Substance,medicines,[Pharmacologic Substance]
+233,C0037640,SO,Geographic Area,so,[Geographic Area]
+234,C0030705,Patients,Patient or Disabled Group,patients,[Patient or Disabled Group]
+235,C0687725,ALCOHOLIC,Patient or Disabled Group,alcoholic,[Patient or Disabled Group]
+236,C0023884,LIVER,"Body Part, Organ, or Organ Component",liver,"[Body Part, Organ, or Organ Component], [Food]"
+237,C2346688,LIVER,Food,liver,"[Body Part, Organ, or Organ Component], [Food]"
+238,C0022658,KIDNEY DISEASE,Disease or Syndrome,kidney disease,[Disease or Syndrome]

@@ -1,0 +1,3747 @@
+Processing med_data_sample.txt.tx.1: Aviclar 500mg Injection,Mits Healthcare Pvt Ltd,Clarithromycin (500mg),Store below 30°C,Macrolides,No,ANTI INFECTIVES,"Aviclar 500mg Injection is an antibiotic used to treat various types of bacterial infections. 
+
+Phrase: Aviclar 500mg Injection,
+Meta Mapping (827):
+   827   C0021485:injection (Injection of therapeutic agent) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1272883:INJECTION (Injection) [Biomedical or Dental Material]
+Meta Mapping (827):
+   827   C1533685:Injection (Injection procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1828121:Injection (Injection Route of Drug Administration) [Functional Concept]
+Meta Mapping (827):
+   827   C4049935:Injection (Injection Dosing Unit) [Quantitative Concept]
+Meta Mapping (827):
+   827   C4723827:Injection (Injection Method of Administration) [Functional Concept]
+
+Phrase: Mits Healthcare Pvt Ltd,
+Meta Mapping (775):
+   645   C4329587:MITS (CDISC SDTM Microscopic Findings Test Name Terminology) [Intellectual Product]
+   645   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   812   C1136140:LTD (Long-Term Synaptic Depression) [Organ or Tissue Function]
+Meta Mapping (775):
+   645   C4329587:MITS (CDISC SDTM Microscopic Findings Test Name Terminology) [Intellectual Product]
+   645   C0086388:HealthCare (Health Care) [Health Care Activity]
+   812   C1136140:LTD (Long-Term Synaptic Depression) [Organ or Tissue Function]
+
+Phrase: Clarithromycin
+Meta Mapping (1000):
+  1000   C0055856:CLARITHROMYCIN (clarithromycin) [Antibiotic,Organic Chemical]
+
+Phrase: (500mg
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Store below 30°C,
+Meta Mapping (686):
+   760   C1698986:Store (Storage) [Functional Concept]
+   593   C3842588:30% [Quantitative Concept]
+Meta Mapping (686):
+   760   C4522246:Store (Human Cells, Tissues, and Cellular and Tissue-Based Products Storage) [Health Care Activity]
+   593   C3842588:30% [Quantitative Concept]
+
+Phrase: Macrolides,
+Meta Mapping (1000):
+  1000   C0003240:Macrolides (Macrolide Antibiotics) [Antibiotic,Organic Chemical]
+Meta Mapping (1000):
+  1000   C0282563:Macrolides [Organic Chemical,Pharmacologic Substance]
+
+Phrase: No,
+
+Phrase: ANTI INFECTIVES,
+Meta Mapping (1000):
+  1000   C0003204:Anti-Infectives (Anti-Infective Agents) [Pharmacologic Substance]
+
+Phrase: "Aviclar 500mg Injection
+Meta Mapping (827):
+   827   C0021485:injection (Injection of therapeutic agent) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1272883:INJECTION (Injection) [Biomedical or Dental Material]
+Meta Mapping (827):
+   827   C1533685:Injection (Injection procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1828121:Injection (Injection Route of Drug Administration) [Functional Concept]
+Meta Mapping (827):
+   827   C4049935:Injection (Injection Dosing Unit) [Quantitative Concept]
+Meta Mapping (827):
+   827   C4723827:Injection (Injection Method of Administration) [Functional Concept]
+
+Phrase: is
+
+Phrase: an antibiotic
+Meta Mapping (1000):
+  1000   C0003232:Antibiotic (Antibiotics) [Antibiotic]
+
+Phrase: used
+Meta Mapping (1000):
+  1000 N C1273517:used (Used by) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: treat
+Meta Mapping (1000):
+  1000   C0087111:TREAT (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1292734:treat (Treatment intent) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1522326:Treat (Treating) [Functional Concept]
+
+Phrase: various types of bacterial infections.
+Meta Mapping (875):
+   593   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Meta Mapping (875):
+   593   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   844   C0457463:Types of infections (types of infections) [Classification]
+   593   C0521009:Bacterial [Qualitative Concept]
+Processing med_data_sample.txt.tx.2: It is effective in most infections of the respiratory tract, ear, nose, throat, lungs, and skin. 
+
+Phrase: It
+
+Phrase: is
+
+Phrase: effective in most infections of the respiratory tract,
+Meta Mapping (732):
+   744   C1280519:effective (Effectiveness) [Qualitative Concept]
+   626   C0035243:Respiratory Tract Infections [Disease or Syndrome]
+Meta Mapping (732):
+   744   C1704419:Effective [Qualitative Concept]
+   626   C0035243:Respiratory Tract Infections [Disease or Syndrome]
+
+Phrase: ear,
+Meta Mapping (1000):
+  1000   C0013443:EAR (Ear structure) [Body Part, Organ, or Organ Component]
+Meta Mapping (1000):
+  1000   C0521421:Ear, NOS (Entire ear) [Body Part, Organ, or Organ Component]
+
+Phrase: nose,
+Meta Mapping (1000):
+  1000   C0028429:NOSE (Nose) [Body Part, Organ, or Organ Component]
+
+Phrase: throat,
+Meta Mapping (1000):
+  1000   C0031354:Throat (Pharyngeal structure) [Body Part, Organ, or Organ Component]
+Meta Mapping (1000):
+  1000   C0230069:Throat (Anterior portion of neck) [Body Location or Region]
+Meta Mapping (1000):
+  1000   C3665375:THROAT (Throat) [Body Part, Organ, or Organ Component]
+
+Phrase: lungs,
+Meta Mapping (1000):
+  1000   C0024109:LUNGS (Lung) [Body Part, Organ, or Organ Component]
+
+Phrase: and
+
+Phrase: skin.
+Meta Mapping (1000):
+  1000   C0444099:Skin (Skin Specimen) [Body Substance]
+Meta Mapping (1000):
+  1000   C1123023:SKIN (Skin) [Body System]
+Meta Mapping (1000):
+  1000   C4520765:SKIN (Skin, Human) [Body System]
+Processing med_data_sample.txt.tx.3: It is also effective against some infections seen in people with reduced immunity.
+
+Phrase: It
+
+Phrase: is
+
+Phrase: also effective against some infections
+Meta Mapping (686):
+   760   C1280519:effective (Effectiveness) [Qualitative Concept]
+   593   C3714514:Infections (Infection) [Pathologic Function]
+Meta Mapping (686):
+   760   C1704419:Effective [Qualitative Concept]
+   593   C3714514:Infections (Infection) [Pathologic Function]
+
+Phrase: seen in people
+Meta Mapping (746):
+   790   C0205397:Seen (seen) [Qualitative Concept]
+   790   C0027361:People (Persons) [Population Group]
+
+Phrase: with reduced immunity.
+Meta Mapping (888):
+   694   C0392756:Reduced [Qualitative Concept]
+   861   C0020964:Immunity [Physiologic Function]
+Processing med_data_sample.txt.tx.4: Aviclar 500mg Injection is also effective against some infections (e.g., MAC or Mycobacterium avium complex) seen in people with reduced immunity. 
+
+Phrase: Aviclar 500mg Injection
+Meta Mapping (827):
+   827   C0021485:injection (Injection of therapeutic agent) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1272883:INJECTION (Injection) [Biomedical or Dental Material]
+Meta Mapping (827):
+   827   C1533685:Injection (Injection procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (827):
+   827   C1828121:Injection (Injection Route of Drug Administration) [Functional Concept]
+Meta Mapping (827):
+   827   C4049935:Injection (Injection Dosing Unit) [Quantitative Concept]
+Meta Mapping (827):
+   827   C4723827:Injection (Injection Method of Administration) [Functional Concept]
+
+Phrase: is
+
+Phrase: also effective against some infections
+Meta Mapping (686):
+   760   C1280519:effective (Effectiveness) [Qualitative Concept]
+   593   C3714514:Infections (Infection) [Pathologic Function]
+Meta Mapping (686):
+   760   C1704419:Effective [Qualitative Concept]
+   593   C3714514:Infections (Infection) [Pathologic Function]
+
+Phrase: (
+
+Phrase: e.g.
+
+Phrase: ,
+
+Phrase: MAC
+Meta Mapping (1000):
+  1000   C3538559:MAC (Mitochondrion-associated adherens complex location) [Cell Component]
+Meta Mapping (1000):
+  1000   C4049728:MAC (MARCKS wt Allele) [Gene or Genome]
+
+Phrase: or
+
+Phrase: Mycobacterium avium complex
+Meta Mapping (1000):
+  1000   C0026914:MYCOBACTERIUM AVIUM COMPLEX (Mycobacterium avium Complex) [Bacterium]
+
+Phrase: )
+
+Phrase: seen in people
+Meta Mapping (746):
+   790   C0205397:Seen (seen) [Qualitative Concept]
+   790   C0027361:People (Persons) [Population Group]
+
+Phrase: with reduced immunity.
+Meta Mapping (888):
+   694   C0392756:Reduced [Qualitative Concept]
+   861   C0020964:Immunity [Physiologic Function]
+Processing med_data_sample.txt.tx.5: It stops the bacteria from growing, which helps to resolve your symptoms and cure your infection. 
+
+Phrase: It
+
+Phrase: stops
+Meta Mapping (1000):
+  1000   C0450446:Stops (Stops device) [Manufactured Object]
+Meta Mapping (1000):
+  1000   C1947925:Stop (Stop (Instruction Imperative)) [Activity]
+Meta Mapping (1000):
+  1000   C2746065:Stop (Stop (qualifier value)) [Temporal Concept]
+
+Phrase: the bacteria from growing,
+Meta Mapping (770):
+   770   C0004611:Bacterium (Bacteria) [Bacterium]
+Meta Mapping (770):
+   770   C1510439:bacteria (bacteria aspects) [Functional Concept]
+Meta Mapping (770):
+   770   C2347473:% Bacteria (Percent of Bacteria) [Quantitative Concept]
+Meta Mapping (770):
+   770   C4038931:Bacterium (Bacteria present) [Finding]
+
+Phrase: which
+
+Phrase: helps
+Meta Mapping (1000):
+  1000   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1552861:help (Help document) [Intellectual Product]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: resolve
+Meta Mapping (1000):
+  1000   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: your symptoms
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: cure
+Meta Mapping (1000):
+  1000   C1880198:Cure (Cure (remedy)) [Conceptual Entity]
+
+Phrase: your infection.
+Meta Mapping (1000):
+  1000   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C3714514:INFECTION (Infection) [Pathologic Function]
+Processing med_data_sample.txt.tx.6: This medicine is taken orally, preferably either one hour before or 2 hours after a meal. 
+
+Phrase: This medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: is
+
+Phrase: taken
+Meta Mapping (1000):
+  1000   C1883727:Taken [Conceptual Entity]
+
+Phrase: orally,
+Meta Mapping (1000):
+  1000   C0442027:Orally (Oral) [Spatial Concept]
+
+Phrase: preferably either one hour before
+Meta Mapping (806):
+   806   C4288557:One hour (One Activity Hour) [Finding]
+
+Phrase: or
+
+Phrase: 2 hours after a meal.
+Meta Mapping (816):
+   593   C0740116:+2 [Quantitative Concept]
+   844   C2708683:Hours after meal [Temporal Concept]
+Meta Mapping (816):
+   593   C2827735:2+ (2+ Score) [Quantitative Concept]
+   844   C2708683:Hours after meal [Temporal Concept]
+Meta Mapping (816):
+   593   C2981700:2+ (2+ Score, WHO) [Intellectual Product]
+   844   C2708683:Hours after meal [Temporal Concept]
+Meta Mapping (816):
+   593   C3833492:2+ [Finding]
+   844   C2708683:Hours after meal [Temporal Concept]
+Meta Mapping (816):
+   593   C4526661:<2 (PSA Level Less than Two) [Laboratory or Test Result]
+   844   C2708683:Hours after meal [Temporal Concept]
+Processing med_data_sample.txt.tx.7: No antacids should be taken within 2 hours of taking this medicine. 
+
+Phrase: No antacids
+Meta Mapping (1000):
+  1000   C0003138:ANTACIDS (Antacids) [Pharmacologic Substance]
+
+Phrase: should
+
+Phrase: be
+
+Phrase: taken within 2 hours of taking
+Meta Mapping (672):
+   753   C1883727:Taken [Conceptual Entity]
+   753   C0439227:HOURS (Hour) [Temporal Concept]
+
+Phrase: this medicine.
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+Processing med_data_sample.txt.tx.8: It should be used regularly at evenly spaced time intervals as prescribed by your doctor. 
+
+Phrase: It
+
+Phrase: should
+
+Phrase: be
+
+Phrase: used
+Meta Mapping (1000):
+  1000   C1273517:used (Used by) [Finding]
+
+Phrase: regularly at evenly spaced time intervals
+Meta Mapping (701):
+   719   C1883067:Space (Space - property) [Spatial Concept]
+   756   C0872291:Time Interval [Temporal Concept]
+
+Phrase: as
+
+Phrase: prescribed by your doctor.
+Meta Mapping (708):
+   770   C0278329:Prescribed [Health Care Activity]
+   770   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (708):
+   770   C0278329:Prescribed [Health Care Activity]
+   770   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Processing med_data_sample.txt.tx.9: Do not skip any doses and finish the full course of treatment even if you feel better. 
+
+Phrase: Do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: skip
+Meta Mapping (1000):
+  1000 N C0560435:skip (Does skip) [Finding]
+Meta Mapping (1000):
+  1000   C4284728:SKIP (SPHKAP wt Allele) [Gene or Genome]
+
+Phrase: any doses
+Meta Mapping (1000):
+  1000   C0178602:Doses (Dosage) [Quantitative Concept]
+
+Phrase: and
+
+Phrase: finish
+Meta Mapping (1000):
+  1000   C1706059:Finish (Finish - dosing instruction imperative) [Functional Concept]
+
+Phrase: the full course of treatment even
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C0039798:treatment (therapeutic aspects) [Functional Concept]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C1522326:Treatment (Treating) [Functional Concept]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+Meta Mapping (672):
+   586   C0443225:Full [Qualitative Concept]
+   753   C0750729:Course [Temporal Concept]
+   586   C3887704:treatment (treatment - ActInformationManagementReason) [Health Care Activity]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: feel
+Meta Mapping (1000):
+  1000 N C1527305:feel (Feelings) [Mental Process]
+
+Phrase: better.
+Meta Mapping (1000):
+  1000   C0332272:Better [Qualitative Concept]
+Meta Mapping (1000):
+  1000 N C4084203:Better (Improved - answer to question) [Finding]
+Meta Mapping (1000):
+  1000 N C4522046:Better (Better than Others) [Finding]
+Processing med_data_sample.txt.tx.10: Stopping the medicine too early may lead to the infection returning or worsening.
+
+Phrase: Stopping
+Meta Mapping (1000):
+  1000   C0723457:stopping (Stop brand of fluoride) [Inorganic Chemical,Pharmacologic Substance]
+
+Phrase: the medicine too
+Meta Mapping (888):
+   861   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+   694   C5206934:TOO (GDC Tissue or Organ of Origin Terminology) [Intellectual Product]
+Meta Mapping (888):
+   861   C0025118:Medicine [Biomedical Occupation or Discipline]
+   694   C5206934:TOO (GDC Tissue or Organ of Origin Terminology) [Intellectual Product]
+
+Phrase: early
+Meta Mapping (1000):
+  1000   C1279919:Early [Temporal Concept]
+
+Phrase: may
+
+Phrase: lead to the infection
+Meta Mapping (708):
+   770   C0023175:???lead (lead) [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C0023175:???lead (lead) [Element, Ion, or Isotope,Hazardous or Poisonous Substance]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+Meta Mapping (708):
+   770   C0181586:LEAD (Leads (device)) [Manufactured Object]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C0181586:LEAD (Leads (device)) [Manufactured Object]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+Meta Mapping (708):
+   770   C1442948:lead (Plumbum metallicum, homeopathic preparation) [Inorganic Chemical,Pharmacologic Substance]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C1442948:lead (Plumbum metallicum, homeopathic preparation) [Inorganic Chemical,Pharmacologic Substance]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+Meta Mapping (708):
+   770   C1522538:Lead (Leading) [Functional Concept]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C1522538:Lead (Leading) [Functional Concept]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+Meta Mapping (708):
+   770   C2348269:Lead (Dietary Lead) [Element, Ion, or Isotope]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C2348269:Lead (Dietary Lead) [Element, Ion, or Isotope]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+Meta Mapping (708):
+   770   C3275067:LEAD (Cardiac Lead Procedure) [Therapeutic or Preventive Procedure]
+   770   C0009450:Infection, NOS (Communicable Diseases) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C3275067:LEAD (Cardiac Lead Procedure) [Therapeutic or Preventive Procedure]
+   770   C3714514:INFECTION (Infection) [Pathologic Function]
+
+Phrase: returning
+Meta Mapping (966):
+   966   C0332156:Return (Return to (contextual qualifier) (qualifier value)) [Qualitative Concept]
+
+Phrase: or
+
+Phrase: worsening.
+Meta Mapping (1000):
+  1000   C0332271:Worsening (Worsening pattern) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1457868:Worsening (Worse) [Finding]
+Meta Mapping (1000):
+  1000   C1546960:Worsening (Patient Outcome - Worsening) [Idea or Concept]
+Processing med_data_sample.txt.tx.11: Common side effects with this medicine include diarrhea, nausea, abnormal taste, indigestion, abdominal pain, headache, vomiting, and rash. 
+
+Phrase: Common side effects with this medicine
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C1522138:Common (shared attribute) [Functional Concept]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0877248:side effects (Adverse event) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (725):
+   586   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   790   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   586   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: include
+Meta Mapping (1000):
+  1000   C0332257:include (Including (qualifier)) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1552866:include (include - SetOperator) [Idea or Concept]
+Meta Mapping (1000):
+  1000   C2700399:Include (Include (action)) [Activity]
+
+Phrase: diarrhea,
+Meta Mapping (1000):
+  1000   C0011991:DIARRHOEA (Diarrhea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963091:Diarrhea (Diarrhea, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C3641756:Diarrhea (Have Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084784:Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084802:Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085317:Diarrhea (How Often Diarrhea) [Intellectual Product]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (1000):
+  1000   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (1000):
+  1000   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+
+Phrase: abnormal taste,
+Meta Mapping (1000):
+  1000   C0849799:abnormal taste [Sign or Symptom]
+
+Phrase: indigestion,
+Meta Mapping (1000):
+  1000   C0013395:INDIGESTION (Dyspepsia) [Sign or Symptom]
+
+Phrase: abdominal pain,
+Meta Mapping (1000):
+  1000   C0000737:ABDOMINAL PAIN (Abdominal Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C4554323:Abdominal pain (Abdominal Pain, CTCAE 5) [Finding]
+
+Phrase: headache,
+Meta Mapping (1000):
+  1000   C0018681:HEADACHE (Headache) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C4553197:Headache (Headache, CTCAE) [Finding]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000   C0042963:VOMITING (Vomiting) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963281:Vomiting (Vomiting, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C3898969:Vomiting (Have Been Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084766:Vomiting (How Much Distress Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084767:Vomiting (Bothered by Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084768:Vomiting (Usual Severity Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084769:Vomiting (How Often Vomiting) [Intellectual Product]
+
+Phrase: ,
+
+Phrase: and
+
+Phrase: rash.
+Meta Mapping (1000):
+  1000   C0015230:RASH (Exanthema) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0302295:Rash (Eruptions) [Pathologic Function]
+Processing med_data_sample.txt.tx.12: These are usually temporary and subside with the completion of treatment. 
+
+Phrase: These
+
+Phrase: are
+
+Phrase: usually temporary
+Meta Mapping (888):
+   694   C3538928:Usually (Usual) [Qualitative Concept]
+   861   C0205374:Temporary (Transitory) [Temporal Concept]
+Meta Mapping (888):
+   694   C3538928:Usually (Usual) [Qualitative Concept]
+   861   C1548539:Temporary (Job Status - Temporary) [Idea or Concept]
+Meta Mapping (888):
+   694   C3538928:Usually (Usual) [Qualitative Concept]
+   861   C3245481:temporary (EntityNameUseR2 <temporary>) [Intellectual Product]
+Meta Mapping (888):
+   694   C3888388:Usually [Finding]
+   861   C0205374:Temporary (Transitory) [Temporal Concept]
+Meta Mapping (888):
+   694   C3888388:Usually [Finding]
+   861   C1548539:Temporary (Job Status - Temporary) [Idea or Concept]
+Meta Mapping (888):
+   694   C3888388:Usually [Finding]
+   861   C3245481:temporary (EntityNameUseR2 <temporary>) [Intellectual Product]
+
+Phrase: and
+
+Phrase: subside with the completion of treatment.
+Meta Mapping (783):
+   783   C0580352:treatment completion (Treatment completed) [Finding]
+Processing med_data_sample.txt.tx.13: Consult your doctor if you find these side effects do not resolve or persist for a longer duration.Inform your doctor if you have any previous history of allergy or heart problems before taking this medicine. 
+
+Phrase: Consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: find
+Meta Mapping (1000):
+  1000   C0243095:Find (Finding) [Finding]
+
+Phrase: these side effects
+Meta Mapping (1000):
+  1000   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (1000):
+  1000   C0879626:Side effects (Adverse effects) [Pathologic Function]
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: resolve
+Meta Mapping (1000):
+  1000   C2699488:Resolve (Resolution) [Conceptual Entity]
+
+Phrase: or
+
+Phrase: persist for a longer duration.
+Meta Mapping (790):
+   790   C0439591:Long duration [Qualitative Concept]
+
+Phrase: Inform
+Meta Mapping (1000):
+  1000   C0700287:inform (Reporting) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C1552002:inform [Occupational Activity]
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: have
+
+Phrase: any previous history of allergy
+Meta Mapping (761):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   593   C0205156:Previous [Temporal Concept]
+   797   C0489531:allergy history (History of allergies) [Finding]
+Meta Mapping (761):
+   593   C1552551:ANY (Any) [Qualitative Concept]
+   593   C1552607:previous (Act Relationship Subset - previous) [Temporal Concept]
+   797   C0489531:allergy history (History of allergies) [Finding]
+Meta Mapping (761):
+   593   C3272371:ANY (Any Data Type) [Intellectual Product]
+   593   C0205156:Previous [Temporal Concept]
+   797   C0489531:allergy history (History of allergies) [Finding]
+Meta Mapping (761):
+   593   C3272371:ANY (Any Data Type) [Intellectual Product]
+   593   C1552607:previous (Act Relationship Subset - previous) [Temporal Concept]
+   797   C0489531:allergy history (History of allergies) [Finding]
+
+Phrase: or
+
+Phrase: heart problems before taking
+Meta Mapping (833):
+   833   C0795691:heart problems (HEART PROBLEM) [Sign or Symptom]
+
+Phrase: this medicine.
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+Processing med_data_sample.txt.tx.14: Pregnant or breastfeeding women should consult their doctor before using this medicine.",, Altopan LS 75mg/40mg Tablet,Camrut Pharma,Levosulpiride (75mg) + Pantoprazole (40mg),Store below 30°C,,No,GASTRO INTESTINAL,"Altopan LS 75mg/40mg Tablet is a medicine used to treat gastroesophageal reflux disease (acid reflux) by relieving the symptoms of acidity such as heartburn, stomach pain, or irritation. 
+
+Phrase: Pregnant
+Meta Mapping (1000):
+  1000   C0549206:PREGNANT (Patient currently pregnant) [Finding]
+Meta Mapping (1000):
+  1000   C0600457:PREGNANT (Gravidity) [Finding]
+
+Phrase: or
+
+Phrase: breastfeeding women
+Meta Mapping (888):
+   694   C0006147:BREASTFEEDING (Breast Feeding) [Organism Function]
+   861   C0043210:Women (Woman) [Population Group]
+
+Phrase: should
+
+Phrase: consult
+Meta Mapping (1000):
+  1000   C0009818:Consult (Consultation) [Health Care Activity]
+
+Phrase: their doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: before
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: this medicine.",
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: , Altopan LS 75mg/40mg Tablet,
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: Camrut Pharma,
+
+Phrase: Levosulpiride
+Meta Mapping (1000):
+  1000   C0210380:LEVOSULPIRIDE (levosulpiride) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (75mg
+
+Phrase: )
+
+Phrase: + Pantoprazole
+Meta Mapping (1000):
+  1000   C0081876:PANTOPRAZOLE (pantoprazole) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (40mg
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Store below 30°C,
+Meta Mapping (686):
+   760   C1698986:Store (Storage) [Functional Concept]
+   593   C3842588:30% [Quantitative Concept]
+Meta Mapping (686):
+   760   C4522246:Store (Human Cells, Tissues, and Cellular and Tissue-Based Products Storage) [Health Care Activity]
+   593   C3842588:30% [Quantitative Concept]
+
+Phrase: ,
+
+Phrase: No,
+
+Phrase: GASTRO INTESTINAL,
+Meta Mapping (1000):
+  1000   C0521362:Gastrointestinal (gastrointestinal) [Spatial Concept]
+
+Phrase: "Altopan LS 75mg/40mg Tablet
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: is
+
+Phrase: a medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: used
+Meta Mapping (1000):
+  1000   C1273517:used (Used by) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: treat
+Meta Mapping (1000):
+  1000   C0087111:TREAT (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000):
+  1000   C1292734:treat (Treatment intent) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1522326:Treat (Treating) [Functional Concept]
+
+Phrase: gastroesophageal reflux disease
+Meta Mapping (1000):
+  1000   C0017168:Gastrooesophageal reflux disease (Gastroesophageal reflux disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C4553201:Gastroesophageal reflux disease (Gastroesophageal Reflux Disease, CTCAE) [Finding]
+
+Phrase: (acid reflux
+Meta Mapping (1000):
+  1000   C0017168:Acid Reflux (Gastroesophageal reflux disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C0018834:Acid reflux (Heartburn) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C4317146:Acid Reflux (Acid reflux) [Finding]
+
+Phrase: )
+
+Phrase: by relieving
+Meta Mapping (1000):
+  1000   C0332303:relieving (Relieved by) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1301676:Relieving [Functional Concept]
+Meta Mapping (1000):
+  1000   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+
+Phrase: the symptoms of acidity
+Meta Mapping (708):
+   770   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   604   C0001128:acidity (Acids) [Chemical]
+Meta Mapping (708):
+   770   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   604   C0018834:acidity (Heartburn) [Sign or Symptom]
+Meta Mapping (708):
+   770   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+   604   C0920750:acidity (Chemical acidity/alkalinity) [Quantitative Concept]
+Meta Mapping (708):
+   770   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   604   C0001128:acidity (Acids) [Chemical]
+Meta Mapping (708):
+   770   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   604   C0018834:acidity (Heartburn) [Sign or Symptom]
+Meta Mapping (708):
+   770   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+   604   C0920750:acidity (Chemical acidity/alkalinity) [Quantitative Concept]
+
+Phrase: such as heartburn,
+Meta Mapping (1000):
+  1000   C0018834:HEARTBURN (Heartburn) [Sign or Symptom]
+
+Phrase: stomach pain,
+Meta Mapping (1000):
+  1000   C0000737:Stomach pain (Abdominal Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0221512:STOMACH PAIN (Stomach ache) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963242:Stomach pain (Stomach Pain, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4554097:Stomach pain (Stomach Pain, CTCAE 5.0) [Finding]
+
+Phrase: or
+
+Phrase: irritation.
+Meta Mapping (1000):
+  1000   C0441723:Irritation [Phenomenon or Process]
+Meta Mapping (1000):
+  1000   C1706307:Irritation (Irritation (finding)) [Finding]
+Meta Mapping (1000):
+  1000   C2700617:Irritation (Irritation - emotion) [Mental Process]
+Processing med_data_sample.txt.tx.15: It also neutralizes the acid and promotes easy passage of gas to reduce stomach discomfort.
+
+Phrase: It
+
+Phrase: also
+
+Phrase: neutralizes
+
+Phrase: the acid
+Meta Mapping (1000):
+  1000   C0001128:Acid (Acids) [Chemical]
+Meta Mapping (1000):
+  1000   C0202406:Acid (Lysergic acid diethylamide measurement) [Laboratory Procedure]
+
+Phrase: and
+
+Phrase: promotes
+Meta Mapping (1000):
+  1000   C0033414:Promote (Promotion (action)) [Activity]
+
+Phrase: easy passage of gas
+Meta Mapping (733):
+   604   C0332219:Easy [Finding]
+   770   C0439799:Passage (Channel) [Spatial Concept]
+   604   C0017110:Gas (Gases) [Chemical Viewed Structurally]
+Meta Mapping (733):
+   604   C0332219:Easy [Finding]
+   770   C0439799:Passage (Channel) [Spatial Concept]
+   604   C0596601:Gas (gastrointestinal gas) [Sign or Symptom]
+Meta Mapping (733):
+   604   C0332219:Easy [Finding]
+   770   C0439799:Passage (Channel) [Spatial Concept]
+   604   C3812826:GAS (PAGR1 wt Allele) [Gene or Genome]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: reduce
+
+Phrase: stomach discomfort.
+Meta Mapping (1000):
+  1000   C0235309:Stomach discomfort (Upset stomach) [Sign or Symptom]
+Processing med_data_sample.txt.tx.16: Altopan LS 75mg/40mg Tablet is taken without food in a dose and duration as advised by the doctor. 
+
+Phrase: Altopan LS 75mg/40mg Tablet
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (764):
+   637   C4761318:LS (Lisu Chinese) [Population Group]
+   804   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: is
+
+Phrase: taken without food
+Meta Mapping (746):
+   790   C1883727:Taken [Conceptual Entity]
+   790   C0016452:Food [Food]
+Meta Mapping (746):
+   790   C1883727:Taken [Conceptual Entity]
+   790   C3540798:food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+
+Phrase: in a dose
+Meta Mapping (1000):
+  1000   C0178602:DOSE (Dosage) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C0869039:Dose (Unit dose) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C1114758:Dose # (Dose number:Number:Point in time:^Patient:Quantitative) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: duration
+Meta Mapping (1000):
+  1000   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+Meta Mapping (1000):
+  1000   C2926735:Duration [Organic Chemical,Pharmacologic Substance]
+
+Phrase: as
+
+Phrase: advised by the doctor.
+Meta Mapping (770):
+   770   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (770):
+   770   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Processing med_data_sample.txt.tx.17: The dose you are given will depend on your condition and how you respond to the medicine. 
+
+Phrase: The dose
+Meta Mapping (1000):
+  1000   C0178602:DOSE (Dosage) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C0869039:Dose (Unit dose) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C1114758:Dose # (Dose number:Number:Point in time:^Patient:Quantitative) [Clinical Attribute]
+
+Phrase: you
+
+Phrase: are
+
+Phrase: given
+Meta Mapping (1000):
+  1000   C1442162:GIVEN [Functional Concept]
+Meta Mapping (1000):
+  1000   C1550718:given (Entity Name Part Type - given) [Idea or Concept]
+Meta Mapping (1000):
+  1000   C1947971:Given (Give - dosing instruction imperative) [Functional Concept]
+Meta Mapping (1000):
+  1000   C3244317:given (Given name) [Intellectual Product]
+
+Phrase: will
+
+Phrase: depend on your condition
+Meta Mapping (708):
+   770   C0725813:depend [Medical Device]
+   770   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (708):
+   770   C0725813:depend [Medical Device]
+   770   C0348080:Condition [Qualitative Concept]
+Meta Mapping (708):
+   770   C0725813:depend [Medical Device]
+   770   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (708):
+   770   C0725813:depend [Medical Device]
+   770   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (708):
+   770   C0725813:depend [Medical Device]
+   770   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+
+Phrase: and
+
+Phrase: how
+
+Phrase: you
+
+Phrase: respond to the medicine.
+Meta Mapping (770):
+   770   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (770):
+   770   C0025118:Medicine [Biomedical Occupation or Discipline]
+Processing med_data_sample.txt.tx.18: You should keep taking this medicine for as long as your doctor recommends. 
+
+Phrase: You
+
+Phrase: should
+
+Phrase: keep
+Meta Mapping (1000):
+  1000   C0333118:Keep (Retained) [Functional Concept]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: this medicine for
+Meta Mapping (771):
+   623   C1080058:This (This (eukaryote)) [Eukaryote]
+   790   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (771):
+   623   C1080058:This (This (eukaryote)) [Eukaryote]
+   790   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: as long as your doctor
+Meta Mapping (696):
+   760   C0052432:AS (artesunate) [Organic Chemical,Pharmacologic Substance]
+   760   C0205166:LONG (Long) [Qualitative Concept]
+   760   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (696):
+   760   C0052432:AS (artesunate) [Organic Chemical,Pharmacologic Substance]
+   760   C0205166:LONG (Long) [Qualitative Concept]
+   760   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Meta Mapping (696):
+   760   C0052432:AS (artesunate) [Organic Chemical,Pharmacologic Substance]
+   760   C1706317:Long (Long Variable) [Qualitative Concept]
+   760   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (696):
+   760   C0052432:AS (artesunate) [Organic Chemical,Pharmacologic Substance]
+   760   C1706317:Long (Long Variable) [Qualitative Concept]
+   760   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Meta Mapping (696):
+   760   C0373548:As (Arsenic measurement) [Laboratory Procedure]
+   760   C0205166:LONG (Long) [Qualitative Concept]
+   760   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (696):
+   760   C0373548:As (Arsenic measurement) [Laboratory Procedure]
+   760   C0205166:LONG (Long) [Qualitative Concept]
+   760   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Meta Mapping (696):
+   760   C0373548:As (Arsenic measurement) [Laboratory Procedure]
+   760   C1706317:Long (Long Variable) [Qualitative Concept]
+   760   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (696):
+   760   C0373548:As (Arsenic measurement) [Laboratory Procedure]
+   760   C1706317:Long (Long Variable) [Qualitative Concept]
+   760   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: recommends.
+Meta Mapping (1000):
+  1000   C0034866:recommends (Recommendation) [Idea or Concept]
+Processing med_data_sample.txt.tx.19: If you stop treatment too early your symptoms may come back and your condition may worsen. 
+
+Phrase: If
+
+Phrase: you
+
+Phrase: stop
+Meta Mapping (1000):
+  1000   C1947925:Stop (Stop (Instruction Imperative)) [Activity]
+Meta Mapping (1000):
+  1000   C2746065:Stop (Stop (qualifier value)) [Temporal Concept]
+
+Phrase: treatment too early
+Meta Mapping (901):
+   827   C0039798:treatment (therapeutic aspects) [Functional Concept]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C0039798:treatment (therapeutic aspects) [Functional Concept]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C0087111:Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C1522326:Treatment (Treating) [Functional Concept]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C1522326:Treatment (Treating) [Functional Concept]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C1533734:Treatment (Administration procedure) [Therapeutic or Preventive Procedure]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C1705169:Treatment (Biomaterial Treatment) [Conceptual Entity]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C3538994:TREATMENT (Treatment Epoch) [Research Activity]
+   901   C4018905:Too Early (Too early) [Finding]
+Meta Mapping (901):
+   827   C3887704:treatment (treatment - ActInformationManagementReason) [Health Care Activity]
+   901   C3242261:too early (too early - pharmacy supply request renewal refusal reason) [Finding]
+Meta Mapping (901):
+   827   C3887704:treatment (treatment - ActInformationManagementReason) [Health Care Activity]
+   901   C4018905:Too Early (Too early) [Finding]
+
+Phrase: your symptoms
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+
+Phrase: may
+
+Phrase: come back
+Meta Mapping (861):
+   861   C0004600:BACK (Back) [Body Location or Region]
+Meta Mapping (861):
+   861   C0205095:BACK (Dorsal) [Spatial Concept]
+Meta Mapping (861):
+   861   C0460009:Back (Back structure, including back of neck) [Body Location or Region]
+Meta Mapping (861):
+   861   C1995000:Back, NOS (Back structure, excluding neck) [Body Location or Region]
+
+Phrase: and
+
+Phrase: your condition
+Meta Mapping (1000):
+  1000   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (1000):
+  1000   C0348080:Condition [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (1000):
+  1000   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (1000):
+  1000   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+
+Phrase: may
+
+Phrase: worsen.
+Meta Mapping (1000):
+  1000   C0332271:worsen (Worsening pattern) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1457868:worsen (Worse) [Finding]
+Processing med_data_sample.txt.tx.20: Let your healthcare team know about all other medications you are taking as some may affect, or be affected by this medicine.The most common side effects are stomach pain, vomiting, diarrhea, headache, fever, nausea, rash, and flatulence. 
+
+Phrase: Let
+Meta Mapping (1000):
+  1000   C0406636:LET (Lupus erythematosus tumidus) [Disease or Syndrome]
+
+Phrase: your healthcare team
+Meta Mapping (1000):
+  1000   C0086390:Team, Healthcare (Medical Care Team) [Health Care Activity]
+
+Phrase: know about all
+
+Phrase: other medications
+Meta Mapping (1000):
+  1000   C0013227:Medications (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0802604:Medications (Medications:Presence or Identity:Duration of the study:^Patient:Nominal) [Clinical Attribute]
+Meta Mapping (1000):
+  1000   C2598133:Medications (Medications:-:Point in time:^Patient:-) [Clinical Attribute]
+Meta Mapping (1000):
+  1000   C4284232:Medications [Intellectual Product]
+
+Phrase: you
+
+Phrase: are
+
+Phrase: taking as some
+Meta Mapping (756):
+   756   C1515187:Take [Health Care Activity]
+
+Phrase: may
+
+Phrase: affect
+Meta Mapping (1000):
+  1000   C0001721:Affect (Affect (mental function)) [Mental Process]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: be
+
+Phrase: affected by this medicine.
+Meta Mapping (708):
+   770   C0392760:Affected (Affecting) [Functional Concept]
+   770   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (708):
+   770   C0392760:Affected (Affecting) [Functional Concept]
+   770   C0025118:Medicine [Biomedical Occupation or Discipline]
+Meta Mapping (708):
+   770   C1314939:Affected (Involvement with) [Functional Concept]
+   770   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (708):
+   770   C1314939:Affected (Involvement with) [Functional Concept]
+   770   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: The most common side effects
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   861   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   861   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   861   C0879626:Side effects (Adverse effects) [Pathologic Function]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C1522138:Common (shared attribute) [Functional Concept]
+   861   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C1522138:Common (shared attribute) [Functional Concept]
+   861   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C1522138:Common (shared attribute) [Functional Concept]
+   861   C0879626:Side effects (Adverse effects) [Pathologic Function]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   861   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   861   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (861):
+   645   C0205393:Most [Quantitative Concept]
+   645   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   861   C0879626:Side effects (Adverse effects) [Pathologic Function]
+
+Phrase: are
+
+Phrase: stomach pain,
+Meta Mapping (1000):
+  1000   C0000737:Stomach pain (Abdominal Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0221512:STOMACH PAIN (Stomach ache) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963242:Stomach pain (Stomach Pain, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4554097:Stomach pain (Stomach Pain, CTCAE 5.0) [Finding]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000   C0042963:VOMITING (Vomiting) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963281:Vomiting (Vomiting, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C3898969:Vomiting (Have Been Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084766:Vomiting (How Much Distress Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084767:Vomiting (Bothered by Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084768:Vomiting (Usual Severity Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084769:Vomiting (How Often Vomiting) [Intellectual Product]
+
+Phrase: ,
+
+Phrase: diarrhea,
+Meta Mapping (1000):
+  1000   C0011991:DIARRHOEA (Diarrhea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963091:Diarrhea (Diarrhea, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C3641756:Diarrhea (Have Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084784:Diarrhea (How Much Distress Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084802:Diarrhea (Usual Severity Diarrhea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085317:Diarrhea (How Often Diarrhea) [Intellectual Product]
+
+Phrase: headache,
+Meta Mapping (1000):
+  1000   C0018681:HEADACHE (Headache) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C4553197:Headache (Headache, CTCAE) [Finding]
+
+Phrase: fever,
+Meta Mapping (1000):
+  1000   C0015967:FEVER (Fever) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0424755:Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (1000):
+  1000   C4552740:Fever (Fever, CTCAE) [Finding]
+
+Phrase: nausea,
+Meta Mapping (1000):
+  1000   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (1000):
+  1000   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (1000):
+  1000   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+
+Phrase: rash,
+Meta Mapping (1000):
+  1000   C0015230:RASH (Exanthema) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0302295:Rash (Eruptions) [Pathologic Function]
+
+Phrase: and
+
+Phrase: flatulence.
+Meta Mapping (1000):
+  1000   C0016204:FLATULENCE (Flatulence) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1962956:Flatulence (Flatulence, CTCAE) [Finding]
+Processing med_data_sample.txt.tx.21: Most of these are temporary and usually resolve with time. 
+
+Phrase: Most of these
+Meta Mapping (790):
+   790   C0205393:Most [Quantitative Concept]
+
+Phrase: are
+
+Phrase: temporary
+Meta Mapping (1000):
+  1000   C0205374:Temporary (Transitory) [Temporal Concept]
+Meta Mapping (1000):
+  1000   C1548539:Temporary (Job Status - Temporary) [Idea or Concept]
+Meta Mapping (1000):
+  1000   C3245481:temporary (EntityNameUseR2 <temporary>) [Intellectual Product]
+
+Phrase: and
+
+Phrase: usually
+Meta Mapping (1000):
+  1000   C3538928:Usually (Usual) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C3888388:Usually [Finding]
+
+Phrase: resolve with time.
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C0040223:TIME (Time) [Temporal Concept]
+Meta Mapping (746):
+   790   C2699488:Resolve (Resolution) [Conceptual Entity]
+   790   C3541383:Time (Time (foundation metadata concept)) [Temporal Concept]
+Processing med_data_sample.txt.tx.22: Contact your doctor straight away if you are at all concerned about any of these side effects. 
+
+Phrase: Contact
+Meta Mapping (1000):
+  1000   C0332158:contact (Contact with) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0337611:Contact (contact person) [Population Group]
+Meta Mapping (1000):
+  1000   C1705415:Contact (Communication Contact) [Idea or Concept]
+Meta Mapping (1000):
+  1000   C3812666:Contact (Personal Contact) [Activity]
+Meta Mapping (1000):
+  1000   C5187145:^Contact [Functional Concept]
+
+Phrase: your doctor straight away
+Meta Mapping (790):
+   827   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+   660   C0019421:Straight (Heterosexuality) [Social Behavior]
+Meta Mapping (790):
+   827   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+   660   C0445291:Straight [Spatial Concept]
+Meta Mapping (790):
+   827   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+   660   C1527360:Straight (Heterosexuals) [Population Group]
+Meta Mapping (790):
+   827   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+   660   C0019421:Straight (Heterosexuality) [Social Behavior]
+Meta Mapping (790):
+   827   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+   660   C0445291:Straight [Spatial Concept]
+Meta Mapping (790):
+   827   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+   660   C1527360:Straight (Heterosexuals) [Population Group]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: are at all
+Meta Mapping (790):
+   790   C1551058:Are (are unit of measure) [Quantitative Concept]
+
+Phrase: concerned about any of these side effects.
+Meta Mapping (689):
+   714   C2699424:Concern [Idea or Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (689):
+   714   C2699424:Concern [Idea or Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (689):
+   714   C2699424:Concern [Idea or Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+Processing med_data_sample.txt.tx.23: This medicine may cause dizziness, so do not drive or do anything that requires mental focus until you know how this medicine affects you. 
+
+Phrase: This medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: may
+
+Phrase: cause
+Meta Mapping (1000):
+  1000   C0015127:cause (Etiology aspects) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1524003:Cause (Science of Etiology) [Conceptual Entity]
+
+Phrase: dizziness,
+Meta Mapping (1000):
+  1000   C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0042571:dizziness (Vertigo) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963093:Dizziness (Dizziness, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4084788:Dizziness (Have Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085547:Dizziness (How Often Dizzy) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085548:Dizziness (Usual Severity Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085549:Dizziness (How Much Distress Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4553830:Dizziness (Dizziness, CTCAE 5.0) [Finding]
+
+Phrase: so
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: drive
+Meta Mapping (1000):
+  1000 N C0013126:Drive (Intrinsic drive) [Mental Process]
+
+Phrase: or
+
+Phrase: do
+
+Phrase: anything that
+
+Phrase: requires
+
+Phrase: mental focus
+Meta Mapping (888):
+   694 N C0229992:mental (Psyche structure) [Mental Process]
+   861   C0205234:Focus (Focal) [Spatial Concept]
+Meta Mapping (888):
+   694 N C0229992:mental (Psyche structure) [Mental Process]
+   861   C1285542:focus (Has focus) [Functional Concept]
+
+Phrase: until
+
+Phrase: you know how
+
+Phrase: this medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: affects
+Meta Mapping (1000):
+  1000 N C0001721:Affects (Affect (mental function)) [Mental Process]
+
+Phrase: you.
+Processing med_data_sample.txt.tx.24: Avoid drinking alcohol while taking this medicine as it can worsen your dizziness. 
+
+Phrase: Avoid
+
+Phrase: drinking alcohol
+Meta Mapping (1000):
+  1000   C0001948:drinking alcohol (Alcohol consumption) [Individual Behavior]
+Meta Mapping (1000):
+  1000   C0001962:Drinking alcohol (ethanol) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0589068:Drinking alcohol (Ingestible alcohol) [Organic Chemical]
+
+Phrase: while
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: this medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: as
+
+Phrase: it
+
+Phrase: can
+
+Phrase: worsen
+Meta Mapping (1000):
+  1000   C0332271:worsen (Worsening pattern) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1457868:worsen (Worse) [Finding]
+
+Phrase: your dizziness.
+Meta Mapping (1000):
+  1000   C0012833:Dizzyness (Dizziness) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0042571:dizziness (Vertigo) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963093:Dizziness (Dizziness, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4084788:Dizziness (Have Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085547:Dizziness (How Often Dizzy) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085548:Dizziness (Usual Severity Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085549:Dizziness (How Much Distress Dizziness) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4553830:Dizziness (Dizziness, CTCAE 5.0) [Finding]
+Processing med_data_sample.txt.tx.25: Lifestyle modifications like having cold milk and avoiding hot tea, coffee, spicy food, or chocolate can help you to get better results.
+
+Phrase: Lifestyle modifications like
+Meta Mapping (849):
+   849   C0870811:lifestyle Modification (Lifestyle changes) [Social Behavior]
+Meta Mapping (849):
+   849   C2960841:lifestyle Modification (Lifestyle change therapy) [Therapeutic or Preventive Procedure]
+
+Phrase: having
+
+Phrase: cold milk
+Meta Mapping (888):
+   694   C0009264:Cold (Cold Temperature) [Natural Phenomenon or Process]
+   861   C0026131:MILK (Milk (body substance)) [Body Substance]
+Meta Mapping (888):
+   694   C0009264:Cold (Cold Temperature) [Natural Phenomenon or Process]
+   861   C0349374:Milk (Cow's milk) [Food]
+Meta Mapping (888):
+   694   C0009264:Cold (Cold Temperature) [Natural Phenomenon or Process]
+   861   C0444318:Milk (Milk Specimen) [Substance]
+Meta Mapping (888):
+   694   C0009264:Cold (Cold Temperature) [Natural Phenomenon or Process]
+   861   C2825079:MILK (Milk - dietary) [Food]
+Meta Mapping (888):
+   694   C0009443:Cold (Common Cold) [Disease or Syndrome]
+   861   C0026131:MILK (Milk (body substance)) [Body Substance]
+Meta Mapping (888):
+   694   C0009443:Cold (Common Cold) [Disease or Syndrome]
+   861   C0349374:Milk (Cow's milk) [Food]
+Meta Mapping (888):
+   694   C0009443:Cold (Common Cold) [Disease or Syndrome]
+   861   C0444318:Milk (Milk Specimen) [Substance]
+Meta Mapping (888):
+   694   C0009443:Cold (Common Cold) [Disease or Syndrome]
+   861   C2825079:MILK (Milk - dietary) [Food]
+Meta Mapping (888):
+   694   C0041912:Cold (Upper Respiratory Infections) [Disease or Syndrome]
+   861   C0026131:MILK (Milk (body substance)) [Body Substance]
+Meta Mapping (888):
+   694   C0041912:Cold (Upper Respiratory Infections) [Disease or Syndrome]
+   861   C0349374:Milk (Cow's milk) [Food]
+Meta Mapping (888):
+   694   C0041912:Cold (Upper Respiratory Infections) [Disease or Syndrome]
+   861   C0444318:Milk (Milk Specimen) [Substance]
+Meta Mapping (888):
+   694   C0041912:Cold (Upper Respiratory Infections) [Disease or Syndrome]
+   861   C2825079:MILK (Milk - dietary) [Food]
+Meta Mapping (888):
+   694   C0234192:Cold (Cold Sensation) [Physiologic Function]
+   861   C0026131:MILK (Milk (body substance)) [Body Substance]
+Meta Mapping (888):
+   694   C0234192:Cold (Cold Sensation) [Physiologic Function]
+   861   C0349374:Milk (Cow's milk) [Food]
+Meta Mapping (888):
+   694   C0234192:Cold (Cold Sensation) [Physiologic Function]
+   861   C0444318:Milk (Milk Specimen) [Substance]
+Meta Mapping (888):
+   694   C0234192:Cold (Cold Sensation) [Physiologic Function]
+   861   C2825079:MILK (Milk - dietary) [Food]
+
+Phrase: and
+
+Phrase: avoiding hot tea,
+Meta Mapping (790):
+   660   C0444519:Hot (Hot sensation quality) [Qualitative Concept]
+   827   C0039400:Tea [Food]
+Meta Mapping (790):
+   660   C0444519:Hot (Hot sensation quality) [Qualitative Concept]
+   827   C4721714:Tea (Tea Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C0444519:Hot (Hot sensation quality) [Qualitative Concept]
+   827   C4724036:TEA (Thoracic Epidural Analgesia) [Therapeutic or Preventive Procedure]
+Meta Mapping (790):
+   660   C2350229:Hot (Hot Temperature) [Natural Phenomenon or Process]
+   827   C0039400:Tea [Food]
+Meta Mapping (790):
+   660   C2350229:Hot (Hot Temperature) [Natural Phenomenon or Process]
+   827   C4721714:Tea (Tea Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C2350229:Hot (Hot Temperature) [Natural Phenomenon or Process]
+   827   C4724036:TEA (Thoracic Epidural Analgesia) [Therapeutic or Preventive Procedure]
+
+Phrase: coffee,
+Meta Mapping (1000):
+  1000   C0009237:Coffee [Food]
+Meta Mapping (1000):
+  1000   C1365948:COFFEE (Coffee Flavor) [Food]
+
+Phrase: spicy food,
+Meta Mapping (1000):
+  1000   C0453864:Spicy food [Food]
+
+Phrase: or
+
+Phrase: chocolate
+Meta Mapping (1000):
+  1000   C0006622:chocolate (Cacao Plant) [Plant]
+Meta Mapping (1000):
+  1000   C0008299:Chocolate [Food]
+Meta Mapping (1000):
+  1000   C0939909:chocolate (Theobroma cacao, cocoa, chocolate) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C1337204:CHOCOLATE (Chocolate Flavor) [Food]
+
+Phrase: can
+
+Phrase: help
+Meta Mapping (1000):
+  1000   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1552861:help (Help document) [Intellectual Product]
+
+Phrase: you
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: get
+
+Phrase: better results.
+Meta Mapping (872):
+   694   C0332272:Better [Qualitative Concept]
+   827   C1274040:Result [Functional Concept]
+Meta Mapping (872):
+   694   C0332272:Better [Qualitative Concept]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+Meta Mapping (872):
+   694   C0332272:Better [Qualitative Concept]
+   827   C2825142:Result (Experimental Result) [Finding]
+Meta Mapping (872):
+   694   C4084203:Better (Improved - answer to question) [Finding]
+   827   C1274040:Result [Functional Concept]
+Meta Mapping (872):
+   694   C4084203:Better (Improved - answer to question) [Finding]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+Meta Mapping (872):
+   694   C4084203:Better (Improved - answer to question) [Finding]
+   827   C2825142:Result (Experimental Result) [Finding]
+Meta Mapping (872):
+   694   C4522046:Better (Better than Others) [Finding]
+   827   C1274040:Result [Functional Concept]
+Meta Mapping (872):
+   694   C4522046:Better (Better than Others) [Finding]
+   827   C1546471:Result (What subject filter - Result) [Idea or Concept]
+Meta Mapping (872):
+   694   C4522046:Better (Better than Others) [Finding]
+   827   C2825142:Result (Experimental Result) [Finding]
+Processing med_data_sample.txt.tx.26: Before you start taking this medicine it is important to inform your doctor if you are suffering from kidney disease. 
+
+Phrase: Before
+
+Phrase: you
+
+Phrase: start
+Meta Mapping (1000):
+  1000   C0439659:Start (Beginning) [Temporal Concept]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: this medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: it
+
+Phrase: is
+
+Phrase: important
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: inform
+Meta Mapping (1000):
+  1000   C0700287:inform (Reporting) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C1552002:inform [Occupational Activity]
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: are
+
+Phrase: suffering from kidney disease.
+Meta Mapping (783):
+   770   C0683278:Suffering (Mental Suffering) [Mental or Behavioral Dysfunction]
+   833   C0022658:KIDNEY DISEASE (Kidney Diseases) [Disease or Syndrome]
+Processing med_data_sample.txt.tx.27: You should also tell your doctor if you are pregnant, planning pregnancy, or breastfeeding.",, Averca SP Tablet,Truecure Healthcare Private Limited,Diclofenac (50mg) + Paracetamol (325mg) + Serratiopeptidase (15mg),Store below 30°C,,No,PAIN ANALGESICS,"Averca SP Tablet is a pain-relieving medicine. 
+
+Phrase: You
+
+Phrase: should
+
+Phrase: also
+
+Phrase: tell
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: are
+
+Phrase: pregnant,
+Meta Mapping (1000):
+  1000   C0549206:PREGNANT (Patient currently pregnant) [Finding]
+Meta Mapping (1000):
+  1000   C0600457:PREGNANT (Gravidity) [Finding]
+
+Phrase: planning
+Meta Mapping (1000):
+  1000   C0032074:Planning (Cognitive function: planning) [Mental Process]
+Meta Mapping (1000):
+  1000   C1301732:Planning (Planned) [Functional Concept]
+
+Phrase: pregnancy,
+Meta Mapping (1000):
+  1000   C0032961:PREGNANCY (Pregnancy) [Organism Function]
+
+Phrase: or
+
+Phrase: breastfeeding.",
+Meta Mapping (1000):
+  1000   C0006147:BREASTFEEDING (Breast Feeding) [Organism Function]
+
+Phrase: , Averca SP Tablet,
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: Truecure Healthcare Private Limited,Diclofenac
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4520857:Private [Qualitative Concept]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4520857:Private [Qualitative Concept]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4520857:Private [Qualitative Concept]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4520857:Private [Qualitative Concept]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0018704:Healthcare (Health care facility) [Health Care Related Organization,Manufactured Object]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C0033175:Private (Private Room) [Manufactured Object]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4520857:Private [Qualitative Concept]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4520857:Private [Qualitative Concept]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4520857:Private [Qualitative Concept]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4520857:Private [Qualitative Concept]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C0439801:Limited (Limited (extensiveness)) [Functional Concept]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C2674459:Limited (Limited Walking Ability) [Finding]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C3542948:Limited (Limited component (foundation metadata concept)) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (771):
+   637   C0086388:HealthCare (Health Care) [Health Care Activity]
+   637   C4521534:Private (United States Military enlisted E1) [Classification]
+   637   C4050251:Limited (Limited Lifting Ability) [Intellectual Product]
+   804   C0012091:Diclophenac (diclofenac) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (50mg
+
+Phrase: )
+
+Phrase: + Paracetamol
+Meta Mapping (1000):
+  1000   C0000970:Paracetamol (acetaminophen) [Organic Chemical,Pharmacologic Substance]
+
+Phrase: (325mg
+
+Phrase: )
+
+Phrase: + Serratiopeptidase
+Meta Mapping (1000):
+  1000   C0074389:SERRATIOPEPTIDASE (serratiopeptidase) [Amino Acid, Peptide, or Protein,Enzyme,Pharmacologic Substance]
+
+Phrase: (15mg
+
+Phrase: )
+
+Phrase: ,
+
+Phrase: Store below 30°C,
+Meta Mapping (686):
+   760   C1698986:Store (Storage) [Functional Concept]
+   593   C3842588:30% [Quantitative Concept]
+Meta Mapping (686):
+   760   C4522246:Store (Human Cells, Tissues, and Cellular and Tissue-Based Products Storage) [Health Care Activity]
+   593   C3842588:30% [Quantitative Concept]
+
+Phrase: ,
+
+Phrase: No,
+
+Phrase: PAIN ANALGESICS,
+Meta Mapping (888):
+   694 N C0030193:PAIN (Pain) [Sign or Symptom]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694 N C0030193:PAIN (Pain) [Sign or Symptom]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C0518090:Pain (Frequency of Pain Question) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C0518090:Pain (Frequency of Pain Question) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C2984058:Pain (Have Pain) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C2984058:Pain (Have Pain) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085210:Pain (Usual Severity Pain) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085210:Pain (Usual Severity Pain) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085211:Pain (Pain Distress Question) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085211:Pain (Pain Distress Question) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085212:Pain (How Much Distress Pain) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4085212:Pain (How Much Distress Pain) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694 N C4553004:Pain (Pain, CTCAE) [Finding]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694 N C4553004:Pain (Pain, CTCAE) [Finding]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4554132:Pain (Feel Pain) [Intellectual Product]
+   861   C0002771:ANALGESICS (Analgesics) [Hazardous or Poisonous Substance,Organic Chemical,Pharmacologic Substance]
+Meta Mapping (888):
+   694   C4554132:Pain (Feel Pain) [Intellectual Product]
+   861   C4722089:Analgesics (Analgesics [TC]) [Pharmacologic Substance]
+
+Phrase: "Averca SP Tablet
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (790):
+   660   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   827   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (790):
+   660   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   827   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: is
+
+Phrase: a pain-
+Meta Mapping (1000):
+  1000 N C0030193:PAIN (Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0518090:Pain (Frequency of Pain Question) [Intellectual Product]
+Meta Mapping (1000):
+  1000 N C1962977:Pain NOS (Pain NOS, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C2984058:Pain (Have Pain) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085210:Pain (Usual Severity Pain) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085211:Pain (Pain Distress Question) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4085212:Pain (How Much Distress Pain) [Intellectual Product]
+Meta Mapping (1000):
+  1000 N C4553004:Pain (Pain, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C4554132:Pain (Feel Pain) [Intellectual Product]
+
+Phrase: relieving
+Meta Mapping (1000):
+  1000   C0332303:relieving (Relieved by) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1301676:Relieving [Functional Concept]
+Meta Mapping (1000):
+  1000   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+
+Phrase: medicine.
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+Processing med_data_sample.txt.tx.28: It helps in relieving moderate pain and reducing fever. 
+
+Phrase: It
+
+Phrase: helps in relieving moderate pain
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301676:Relieving [Functional Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301676:Relieving [Functional Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301676:Relieving [Functional Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C0332303:relieving (Relieved by) [Functional Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301676:Relieving [Functional Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301676:Relieving [Functional Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301676:Relieving [Functional Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C0278139:Moderate pain [Sign or Symptom]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C4049705:Moderate Pain (Moderate Extremity Pain) [Finding]
+Meta Mapping (761):
+   760   C1552861:help (Help document) [Intellectual Product]
+   760   C1301771:relieving (Relieved (qualifier value)) [Qualitative Concept]
+   806   C4521455:Moderate Pain (Neck Pain Score 4) [Finding]
+
+Phrase: and
+
+Phrase: reducing fever.
+Meta Mapping (888):
+   694   C0392756:Reducing (Reduced) [Qualitative Concept]
+   861   C0015967:FEVER (Fever) [Sign or Symptom]
+Meta Mapping (888):
+   694   C0392756:Reducing (Reduced) [Qualitative Concept]
+   861   C0424755:Fever (Fever symptoms (finding)) [Finding]
+Meta Mapping (888):
+   694   C0392756:Reducing (Reduced) [Qualitative Concept]
+   861   C4552740:Fever (Fever, CTCAE) [Finding]
+Processing med_data_sample.txt.tx.29: It is used in various conditions such as muscle ache, back pain, joint pain, menstrual cramps, and toothache.Averca SP Tablet should be taken with food. 
+
+Phrase: It
+
+Phrase: is
+
+Phrase: used in various conditions
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540008:various (various antiinfectives and antiseptics for local oral treatment) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540761:various (various other nasal preparations in ATC) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540762:various (various other agents for local oral treatment in ATC) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540763:VARIOUS (VARIOUS DRUG CLASSES IN ATC) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540765:various (various allergen extracts) [Immunologic Factor,Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540766:various (various antiseptic throat preparations) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   737   C0012634:condition (Disease) [Disease or Syndrome]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   737   C0348080:Condition [Qualitative Concept]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   737   C1705253:Condition (Logical Condition) [Conceptual Entity]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   737   C3864998:Condition (Condition:Find:Pt:^Patient:Nom) [Clinical Attribute]
+Meta Mapping (722):
+   770   C1273517:used (Used by) [Finding]
+   770   C3540769:various (various other intestinal adsorbents in ATC) [Pharmacologic Substance]
+   737   C4722256:CONDITION (Condition Domain) [Intellectual Product]
+
+Phrase: such as muscle ache,
+Meta Mapping (1000):
+  1000   C0231528:MUSCLE ACHE (Myalgia) [Sign or Symptom]
+
+Phrase: back pain,
+Meta Mapping (1000):
+  1000   C0004604:BACKPAIN (Back Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963071:Back pain (Back Pain, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4553945:Back pain (Back Pain, CTCAE 5.0) [Finding]
+
+Phrase: joint pain,
+Meta Mapping (1000):
+  1000   C0003862:JOINT PAIN (Arthralgia) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963066:Joint pain (Joint Pain, CTCAE 3) [Finding]
+Meta Mapping (1000):
+  1000   C4085641:Joint Pain (Level of Joint Pain) [Intellectual Product]
+
+Phrase: menstrual cramps,
+Meta Mapping (1000):
+  1000   C0013390:Menstrual cramps (Dysmenorrhea) [Disease or Syndrome]
+
+Phrase: and
+
+Phrase: toothache.Averca SP Tablet
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (784):
+   645   C0040460:tooth ache (Toothache) [Sign or Symptom]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C0905072:SP (TFF2 protein, human) [Amino Acid, Peptide, or Protein]
+   812   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C0039225:TABLET (Tablet Dosage Form) [Biomedical or Dental Material]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C1705223:TABLET (Tablet Dosing Unit) [Quantitative Concept]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C4319774:Tablet (Tablet (unit of presentation)) [Quantitative Concept]
+Meta Mapping (784):
+   645   C4552737:Toothache (Toothache, CTCAE) [Finding]
+   645   C3889434:SP (TFF2 wt Allele) [Gene or Genome]
+   812   C4722631:Tablet (Tablet Dosage Form Category) [Biomedical or Dental Material]
+
+Phrase: should
+
+Phrase: be
+
+Phrase: taken with food.
+Meta Mapping (746):
+   790   C1883727:Taken [Conceptual Entity]
+   790   C0016452:Food [Food]
+Meta Mapping (746):
+   790   C1883727:Taken [Conceptual Entity]
+   790   C3540798:food (Food allergenic extracts) [Immunologic Factor,Pharmacologic Substance]
+Processing med_data_sample.txt.tx.30: This will prevent you from getting an upset stomach. 
+
+Phrase: This
+
+Phrase: will
+
+Phrase: prevent
+Meta Mapping (1000):
+  1000   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: you from getting
+Meta Mapping (756):
+   756   C1824356:GET (RESF1 gene) [Gene or Genome]
+
+Phrase: an upset stomach.
+Meta Mapping (1000):
+  1000   C0235309:Upset Stomach (Upset stomach) [Sign or Symptom]
+Processing med_data_sample.txt.tx.31: The dose and duration will depend on what you are taking it for and how well it helps your symptoms. 
+
+Phrase: The dose
+Meta Mapping (1000):
+  1000   C0178602:DOSE (Dosage) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C0869039:Dose (Unit dose) [Quantitative Concept]
+Meta Mapping (1000):
+  1000   C1114758:Dose # (Dose number:Number:Point in time:^Patient:Quantitative) [Clinical Attribute]
+
+Phrase: and
+
+Phrase: duration
+Meta Mapping (1000):
+  1000   C0449238:Duration (Duration (temporal concept)) [Temporal Concept]
+Meta Mapping (1000):
+  1000   C2926735:Duration [Organic Chemical,Pharmacologic Substance]
+
+Phrase: will
+
+Phrase: depend on what
+Meta Mapping (790):
+   790   C0725813:depend [Medical Device]
+
+Phrase: you
+
+Phrase: are
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: it for
+
+Phrase: and
+
+Phrase: how well
+Meta Mapping (861):
+   861   C0205170:Well (Good) [Qualitative Concept]
+Meta Mapping (861):
+   861   C3146287:Well [Manufactured Object]
+Meta Mapping (861):
+   861   C4283957:Well (Microplate Well) [Spatial Concept]
+Meta Mapping (861):
+   861   C4761387:Well (Well Marginated Nodule) [Finding]
+
+Phrase: it
+
+Phrase: helps
+Meta Mapping (1000):
+  1000   C1269765:Help (Assisted (qualifier value)) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1552861:help (Help document) [Intellectual Product]
+
+Phrase: your symptoms.
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing med_data_sample.txt.tx.32: You should keep taking the medicine even if you feel better until the doctor says it is alright to stop using it.
+
+Phrase: You
+
+Phrase: should
+
+Phrase: keep
+Meta Mapping (1000):
+  1000   C0333118:Keep (Retained) [Functional Concept]
+
+Phrase: taking
+Meta Mapping (966):
+   966   C1515187:Take [Health Care Activity]
+
+Phrase: the medicine even
+Meta Mapping (861):
+   861   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (861):
+   861   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: feel
+Meta Mapping (1000):
+  1000   C1527305:feel (Feelings) [Mental Process]
+
+Phrase: better until the doctor
+Meta Mapping (708):
+   770   C0332272:Better [Qualitative Concept]
+   604   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (708):
+   770   C0332272:Better [Qualitative Concept]
+   604   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Meta Mapping (708):
+   770   C4084203:Better (Improved - answer to question) [Finding]
+   604   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (708):
+   770   C4084203:Better (Improved - answer to question) [Finding]
+   604   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+Meta Mapping (708):
+   770   C4522046:Better (Better than Others) [Finding]
+   604   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (708):
+   770   C4522046:Better (Better than Others) [Finding]
+   604   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: says
+
+Phrase: it
+
+Phrase: is
+
+Phrase: alright
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: stop
+Meta Mapping (1000):
+  1000   C1947925:Stop (Stop (Instruction Imperative)) [Activity]
+Meta Mapping (1000):
+  1000   C2746065:Stop (Stop (qualifier value)) [Temporal Concept]
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: it.
+Processing med_data_sample.txt.tx.33: Using this medicine may cause few common side effects such as nausea, vomiting, stomach pain, indigestion, and heartburn. 
+
+Phrase: Using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: this medicine
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: may
+
+Phrase: cause
+Meta Mapping (1000):
+  1000   C0015127:cause (Etiology aspects) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1524003:Cause (Science of Etiology) [Conceptual Entity]
+
+Phrase: few common side effects such as nausea,
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C0205214:Common (Common (qualifier value)) [Quantitative Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C1522138:Common (shared attribute) [Functional Concept]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0877248:side effects (Adverse event) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C0027497:NAUSEA (Nausea) [Sign or Symptom]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C1963179:Nausea (Nausea, CTCAE 3.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C2984057:Nausea (Have Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C3829611:Nausea (How Much Nausea During This Period) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4084796:Nausea (How Often Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085222:Nausea (How Much Distress Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085661:Nausea (Usual Severity Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4085862:Nausea (Bothered by Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4255480:Nausea (Nausea:Presence or Threshold:Point in time:^Patient:Ordinal) [Clinical Attribute]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552888:Nausea (Nausea Visual Analogue Scale) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4552889:Nausea (Feel Nausea) [Intellectual Product]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4553767:Nausea (Nausea, CTCAE 5.0) [Finding]
+Meta Mapping (719):
+   581   C0205388:Few [Quantitative Concept]
+   581   C3245511:common (Common Specifications in HL7 V3 Publishing) [Intellectual Product]
+   778   C0879626:Side effects (Adverse effects) [Pathologic Function]
+   581   C4761315:Nausea (Nausea Subscale) [Intellectual Product]
+
+Phrase: vomiting
+Meta Mapping (1000):
+  1000   C0042963:VOMITING (Vomiting) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963281:Vomiting (Vomiting, CTCAE) [Finding]
+Meta Mapping (1000):
+  1000   C3898969:Vomiting (Have Been Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084766:Vomiting (How Much Distress Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084767:Vomiting (Bothered by Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084768:Vomiting (Usual Severity Vomiting) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4084769:Vomiting (How Often Vomiting) [Intellectual Product]
+
+Phrase: ,
+
+Phrase: stomach pain,
+Meta Mapping (1000):
+  1000   C0000737:Stomach pain (Abdominal Pain) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C0221512:STOMACH PAIN (Stomach ache) [Sign or Symptom]
+Meta Mapping (1000):
+  1000   C1963242:Stomach pain (Stomach Pain, CTCAE 3.0) [Finding]
+Meta Mapping (1000):
+  1000   C4554097:Stomach pain (Stomach Pain, CTCAE 5.0) [Finding]
+
+Phrase: indigestion,
+Meta Mapping (1000):
+  1000   C0013395:INDIGESTION (Dyspepsia) [Sign or Symptom]
+
+Phrase: and
+
+Phrase: heartburn.
+Meta Mapping (1000):
+  1000   C0018834:HEARTBURN (Heartburn) [Sign or Symptom]
+Processing med_data_sample.txt.tx.34: If you experience any such side effects that do not go away or get worse, you should let your doctor know. 
+
+Phrase: If
+
+Phrase: you
+
+Phrase: experience
+Meta Mapping (1000):
+  1000   C0237607:experience (Practice Experience) [Mental Process]
+Meta Mapping (1000):
+  1000   C0596545:Experience [Mental Process]
+
+Phrase: any such side effects
+Meta Mapping (1000):
+  1000   C0001688:side effects (aspects of adverse effects) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0877248:side effects (Adverse event) [Pathologic Function]
+Meta Mapping (1000):
+  1000   C0879626:Side effects (Adverse effects) [Pathologic Function]
+
+Phrase: that
+
+Phrase: do
+
+Phrase: not
+Meta Mapping (1000):
+  1000   C1518422:Not (Negation) [Functional Concept]
+
+Phrase: go
+Meta Mapping (1000):
+  1000   C1822658:GO (GORAB gene) [Gene or Genome]
+
+Phrase: away
+
+Phrase: or
+
+Phrase: get
+
+Phrase: worse,
+Meta Mapping (1000):
+  1000   C0332271:worse (Worsening pattern) [Qualitative Concept]
+Meta Mapping (1000):
+  1000 N C1279889:Worse (Deterioration of status) [Finding]
+Meta Mapping (1000):
+  1000 N C1457868:Worse [Finding]
+
+Phrase: you
+
+Phrase: should
+
+Phrase: let
+Meta Mapping (1000):
+  1000 N C0406636:LET (Lupus erythematosus tumidus) [Disease or Syndrome]
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: know.
+Processing med_data_sample.txt.tx.35: Your doctor may be able to suggest ways of preventing or reducing the symptoms. 
+
+Phrase: Your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: may
+
+Phrase: be
+
+Phrase: able
+Meta Mapping (1000):
+  1000   C0085732:Able (Ability) [Organism Attribute]
+Meta Mapping (1000):
+  1000   C1299581:Able (Able (finding)) [Finding]
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: suggest
+Meta Mapping (1000):
+  1000   C1705535:Suggest (suggestion) [Idea or Concept]
+
+Phrase: ways of preventing
+Meta Mapping (590):
+   590   C0309872:PREVENT (PREVENT (product)) [Pharmacologic Substance]
+
+Phrase: or
+
+Phrase: reducing
+Meta Mapping (1000):
+  1000   C0392756:Reducing (Reduced) [Qualitative Concept]
+
+Phrase: the symptoms.
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing med_data_sample.txt.tx.36: In general, you should try to use the smallest amount necessary to control your symptoms.
+
+Phrase: In general,
+Meta Mapping (1000):
+  1000   C0205246:General (Generalized) [Spatial Concept]
+Meta Mapping (1000):
+  1000   C3812897:General (General medical service) [Health Care Activity]
+Meta Mapping (1000):
+  1000   C3891294:General (Safety Reporting Documentation) [Intellectual Product]
+Meta Mapping (1000):
+  1000   C4521767:General (United States Military Commissioned Officer O10) [Classification]
+
+Phrase: you
+
+Phrase: should
+
+Phrase: try
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: use
+Meta Mapping (1000):
+  1000   C0042153:use (utilization qualifier) [Functional Concept]
+Meta Mapping (1000):
+  1000   C0457083:Use (Usage) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1947944:Use (Use - dosing instruction imperative) [Intellectual Product]
+
+Phrase: the smallest
+Meta Mapping (1000):
+  1000   C2700395:Smallest [Quantitative Concept]
+
+Phrase: amount
+Meta Mapping (1000):
+  1000   C1265611:Amount (Quantity) [Quantitative Concept]
+
+Phrase: necessary
+
+Phrase: to
+Meta Mapping (1000):
+  1000   C0041260:TO (Tryptophanase) [Amino Acid, Peptide, or Protein,Enzyme]
+Meta Mapping (1000):
+  1000   C1883351:To [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C5202850:TO (GDC Treatment Outcome Terminology) [Intellectual Product]
+
+Phrase: control
+Meta Mapping (1000):
+  1000   C0243148:control (control aspects) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C1550141:Control (control substance) [Substance]
+Meta Mapping (1000):
+  1000   C1882979:Control (Scientific Control) [Conceptual Entity]
+Meta Mapping (1000):
+  1000   C2587213:Control (Control function) [Functional Concept]
+Meta Mapping (1000):
+  1000   C3274648:Control (True Control Status) [Qualitative Concept]
+Meta Mapping (1000):
+  1000   C4553389:control (Study Control) [Conceptual Entity]
+
+Phrase: your symptoms.
+Meta Mapping (1000):
+  1000   C0683368:symptoms (Symptoms aspect) [Functional Concept]
+Meta Mapping (1000):
+  1000   C1457887:SYMPTOMS (Symptoms) [Sign or Symptom]
+Processing med_data_sample.txt.tx.37: Before using the medicine, you should tell your doctor if you have any other medical conditions or disorders. 
+
+Phrase: Before
+Meta Mapping (1000):
+  1000   C0332152:BEFORE (Before) [Temporal Concept]
+Meta Mapping (1000):
+  1000   C1705850:Before (Before - dosing instruction fragment) [Intellectual Product]
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: the medicine,
+Meta Mapping (1000):
+  1000   C0013227:Medicine (Pharmaceutical Preparations) [Pharmacologic Substance]
+Meta Mapping (1000):
+  1000   C0025118:Medicine [Biomedical Occupation or Discipline]
+
+Phrase: you
+
+Phrase: should
+
+Phrase: tell
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: if
+
+Phrase: you
+
+Phrase: have
+
+Phrase: any other medical conditions
+Meta Mapping (983):
+   983   C4745084:Medical Condition [Finding]
+
+Phrase: or
+
+Phrase: disorders.
+Meta Mapping (1000):
+  1000   C0012634:Disorders (Disease) [Disease or Syndrome]
+Processing med_data_sample.txt.tx.38: It may also affect, or be affected by, some other medicines you are using so let your doctor know all the other medicines you are taking. 
+
+Phrase: It
+
+Phrase: may
+
+Phrase: also
+
+Phrase: affect
+Meta Mapping (1000):
+  1000   C0001721:Affect (Affect (mental function)) [Mental Process]
+
+Phrase: ,
+
+Phrase: or
+
+Phrase: be
+
+Phrase: affected by,
+Meta Mapping (833):
+   833   C0392760:Affected (Affecting) [Functional Concept]
+Meta Mapping (833):
+   833   C1314939:Affected (Involvement with) [Functional Concept]
+
+Phrase: some
+
+Phrase: other medicines
+Meta Mapping (1000):
+  1000   C0013227:Medicines (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: you
+
+Phrase: are
+
+Phrase: using
+Meta Mapping (1000):
+  1000   C1524063:Using (Use of) [Functional Concept]
+
+Phrase: so
+Meta Mapping (1000):
+  1000   C0037640:SO (Somalia) [Geographic Area]
+
+Phrase: let
+Meta Mapping (1000):
+  1000   C0406636:LET (Lupus erythematosus tumidus) [Disease or Syndrome]
+
+Phrase: your doctor
+Meta Mapping (1000):
+  1000   C0031831:Doctor (Physicians) [Professional or Occupational Group]
+Meta Mapping (1000):
+  1000   C2348314:Doctor (Doctor - Title) [Intellectual Product]
+
+Phrase: know
+
+Phrase: all the
+
+Phrase: other medicines
+Meta Mapping (1000):
+  1000   C0013227:Medicines (Pharmaceutical Preparations) [Pharmacologic Substance]
+
+Phrase: you
+
+Phrase: are
+
+Phrase: taking.
+Processing med_data_sample.txt.tx.39: It should be used with caution in patients who are alcoholic or have liver or kidney disease. 
+
+Phrase: It
+
+Phrase: should
+
+Phrase: be
+
+Phrase: used with caution
+Meta Mapping (988):
+   988   C1710588:USE WITH CAUTION (Use with caution) [Functional Concept]
+
+Phrase: in patients
+Meta Mapping (1000):
+  1000   C0030705:Patients [Patient or Disabled Group]
+
+Phrase: who
+
+Phrase: are
+
+Phrase: alcoholic
+Meta Mapping (1000):
+  1000   C0687725:ALCOHOLIC (Alcoholics) [Patient or Disabled Group]
+
+Phrase: or
+
+Phrase: have
+
+Phrase: liver
+Meta Mapping (1000):
+  1000   C0023884:LIVER (Liver) [Body Part, Organ, or Organ Component]
+Meta Mapping (1000):
+  1000   C2346688:LIVER (Liver Flavor) [Food]
+
+Phrase: or
+
+Phrase: kidney disease.
+Meta Mapping (1000):
+  1000   C0022658:KIDNEY DISEASE (Kidney Diseases) [Disease or Syndrome]

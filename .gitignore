@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Editor / OS
+*.swp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large or licensed data (only data/sample/ is tracked)
+data/*
+!data/sample/
+outputs/*
+!outputs/sample/
