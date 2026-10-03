@@ -73,8 +73,8 @@ After:  ...side effects with this medicine include diarrhea, nausea, [[Sign or S
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Aditi-71/IISER-Medicine-UMLS-Mapping.git
+cd IISER-Medicine-UMLS-Mapping
 pip install -r requirements.txt
 ```
 
@@ -121,4 +121,4 @@ The full scraped dataset and MetaMap outputs are not published here. The medicin
 
 I thank Dr. Tanmay Basu, IISER Bhopal, for his guidance during this internship.
 
-**Author:** Aditi Biswas, KIIT
+**Author:** Aditi Biswas, KIIT University
