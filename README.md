@@ -1,8 +1,8 @@
-# Medicine Data Scraping and UMLS Concept Mapping
+# Knowledge Graph of Indian Medicines
 
 Summer research internship project at **IISER Bhopal**, under the supervision of **Dr. Tanmay Basu** (May–July 2024).
 
-The project builds a structured dataset of medicines from the [Tata 1mg](https://www.1mg.com/drugs-all-medicines) website and normalizes the biomedical text in it using **MetaMap** and the **UMLS Metathesaurus**, so that different words for the same concept (for example *"Macrolides"* and *"macrolide antibiotic"*) map to a single standard identifier.
+This repository contains the data collection and concept-normalization stages of the project. It builds a dataset of 125,692 medicines from the [Tata 1mg](https://www.1mg.com/drugs-all-medicines) website and maps the biomedical text in it to the **UMLS Metathesaurus** using **MetaMap**, so that different words for the same concept (for example *"Macrolides"* and *"macrolide antibiotic"*) map to a single standard identifier. These normalized concepts are the building blocks for the knowledge graph.
 
 ## Pipeline
 
